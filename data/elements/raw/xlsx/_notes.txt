@@ -1,0 +1,10 @@
+BF_mo_04_leaf: Ca, K, Mg negative
+BF_mo_06_leaf: looks fine; keep values (marked violet in 
+	<MicrowaveExtract_PBoct15.xls>)
+BF_lo_14_leaf: Mn is H in micro -> take value from macro
+CI_tb_20_leaf: for Mn take value from macro dilution (H) 
+	-> rep 1, rep 2, and rep 3
+CI_sb_16_leaf: Na has H value (5180H)
+CI_sb_20_leaf: Mn is H (take from macro dilution) -> rep 1 and 2;
+	rep 3 is very low in both micro and macro run 
+	(no H in micro) -> take value from macro run (consistency)

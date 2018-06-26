@@ -1,0 +1,108 @@
+field_ID,sample_ID,country,site,farmer_no,farmer_name,type,species,variety,material,mat_type,date,gps_long,gps_lat,alt,spad,stade,tuteurage,comment,dw_total
+BF_lo_01,BF_lo_01_leaf,bf,lo,1,Dadjan Boureima,cal,D. rotundata,Pouna,leaf,leaf,20150805,586899,1224195,365,44,xce initiation tubercule,1,NA,90.08
+BF_lo_01,BF_lo_01_vine,bf,lo,1,Dadjan Boureima,cal,D. rotundata,Pouna,vine,vine,20150805,586899,1224195,365,44,xce initiation tubercule,1,NA,35.08
+BF_lo_01,BF_lo_01_soil_cal,bf,lo,1,Dadjan Boureima,cal,D. rotundata,Pouna,soil,soil_cal,20150805,586899,1224195,365,44,xce initiation tubercule,1,NA,
+BF_lo_01,BF_lo_01_soil_add,bf,lo,1,Dadjan Boureima,add,D. rotundata,Pouna,soil,soil_add,20150805,586899,1224195,365,44,xce initiation tubercule,1,NA,
+BF_lo_02,BF_lo_02_leaf,bf,lo,2,Dadjan Dramane,cal,D. rotundata,Wassara,leaf,leaf,20150805,588798,1224095,338,39,xce initiation tubercule,1,NA,114.38
+BF_lo_02,BF_lo_02_vine,bf,lo,2,Dadjan Dramane,cal,D. rotundata,Wassara,vine,vine,20150805,588798,1224095,338,39,xce initiation tubercule,1,NA,41.41
+BF_lo_02,BF_lo_02_soil_cal,bf,lo,2,Dadjan Dramane,cal,D. rotundata,Wassara,soil,soil_cal,20150805,588798,1224095,338,39,xce initiation tubercule,1,NA,
+BF_lo_02,BF_lo_02_soil_add,bf,lo,2,Dadjan Dramane,add,D. rotundata,Wassara,soil,soil_add,20150805,588798,1224095,338,39,xce initiation tubercule,1,NA,
+BF_lo_03,BF_lo_03_leaf,bf,lo,3,Dadjan Lassane,cal,D. rotundata,Wassara,leaf,leaf,20150805,585849,1224238,351,31.2,xce initiation tubercule,1,NA,52.6
+BF_lo_03,BF_lo_03_vine,bf,lo,3,Dadjan Lassane,cal,D. rotundata,Wassara,vine,vine,20150805,585849,1224238,351,31.2,xce initiation tubercule,1,NA,34.67
+BF_lo_03,BF_lo_03_tuber,bf,lo,3,Dadjan Lassane,cal,D. rotundata,Wassara,tuber,tuber,20150805,585849,1224238,351,31.2,xce initiation tubercule,1,NA,3.38
+BF_lo_03,BF_lo_03_soil_cal,bf,lo,3,Dadjan Lassane,cal,D. rotundata,Wassara,soil,soil_cal,20150805,585849,1224238,351,31.2,xce initiation tubercule,1,NA,
+BF_lo_03,BF_lo_03_soil_add,bf,lo,3,Dadjan Lassane,add,D. rotundata,Wassara,soil,soil_add,20150805,585849,1224238,351,31.2,xce initiation tubercule,1,NA,
+BF_lo_04,BF_lo_04_leaf,bf,lo,4,Napon Nouradine,cal,D. rotundata,NA,leaf,leaf,20150805,586064,1224124,345,37.1,xce feuille,1,NA,75.85
+BF_lo_04,BF_lo_04_vine,bf,lo,4,Napon Nouradine,cal,D. rotundata,NA,vine,vine,20150805,586064,1224124,345,37.1,xce feuille,1,NA,33.48
+BF_lo_04,BF_lo_04_soil_cal,bf,lo,4,Napon Nouradine,cal,D. rotundata,NA,soil,soil_cal,20150805,586064,1224124,345,37.1,xce feuille,1,NA,
+BF_lo_04,BF_lo_04_soil_add,bf,lo,4,Napon Nouradine,add,D. rotundata,NA,soil,soil_add,20150805,586064,1224124,345,37.1,xce feuille,1,NA,
+BF_lo_05,BF_lo_05_leaf,bf,lo,5,Dadjan Suleymane,cal,D. rotundata,Wassara,leaf,leaf,20150805,585213,1223269,343,26.3,xce initiation tubercule,1,NA,80.41
+BF_lo_05,BF_lo_05_vine,bf,lo,5,Dadjan Suleymane,cal,D. rotundata,Wassara,vine,vine,20150805,585213,1223269,343,26.3,xce initiation tubercule,1,NA,38.71
+BF_lo_05,BF_lo_05_soil_cal,bf,lo,5,Dadjan Suleymane,cal,D. rotundata,Wassara,soil,soil_cal,20150805,585213,1223269,343,26.3,xce initiation tubercule,1,NA,
+BF_lo_05,BF_lo_05_soil_add,bf,lo,5,Dadjan Suleymane,add,D. rotundata,Wassara,soil,soil_add,20150805,585213,1223269,343,26.3,xce initiation tubercule,1,NA,
+BF_lo_06,BF_lo_06_leaf,bf,lo,6,Dadjan Akim,cal,D. rotundata,Wassara ,leaf,leaf,20150806,589495,1223216,322,45.7,xce initiation tubercule,1,NA,99.28
+BF_lo_06,BF_lo_06_vine,bf,lo,6,Dadjan Akim,cal,D. rotundata,Wassara ,vine,vine,20150806,589495,1223216,322,45.7,xce initiation tubercule,1,NA,46.25
+BF_lo_06,BF_lo_06_soil_cal,bf,lo,6,Dadjan Akim,cal,D. rotundata,Wassara ,soil,soil_cal,20150806,589495,1223216,322,45.7,xce initiation tubercule,1,NA,
+BF_lo_06,BF_lo_06_soil_add,bf,lo,6,Dadjan Akim,add,D. rotundata,Wassara ,soil,soil_add,20150806,589495,1223216,322,45.7,xce initiation tubercule,1,NA,
+BF_lo_07,BF_lo_07_leaf,bf,lo,7,Tianama Mahamoudou,cal,D. rotundata,Wassara,leaf,leaf,20150806,589581,1222310,336,47,xce initiation tubercule,1,NA,63
+BF_lo_07,BF_lo_07_vine,bf,lo,7,Tianama Mahamoudou,cal,D. rotundata,Wassara,vine,vine,20150806,589581,1222310,336,47,xce initiation tubercule,1,NA,28.05
+BF_lo_07,BF_lo_07_tuber,bf,lo,7,Tianama Mahamoudou,cal,D. rotundata,Wassara,tuber,tuber,20150806,589581,1222310,336,47,xce initiation tubercule,1,NA,2.55
+BF_lo_07,BF_lo_07_soil_cal,bf,lo,7,Tianama Mahamoudou,cal,D. rotundata,Wassara,soil,soil_cal,20150806,589581,1222310,336,47,xce initiation tubercule,1,NA,
+BF_lo_07,BF_lo_07_soil_add,bf,lo,7,Tianama Mahamoudou,add,D. rotundata,Wassara,soil,soil_add,20150806,589581,1222310,336,47,xce initiation tubercule,1,NA,
+BF_lo_08,BF_lo_08_leaf,bf,lo,8,Yaro Mashahoudou,cal,D. alata,Folou,leaf,leaf,20150806,590334,1221575,325,33.5,xce feuille,1,NA,58.7
+BF_lo_08,BF_lo_08_vine,bf,lo,8,Yaro Mashahoudou,cal,D. alata,Folou,vine,vine,20150806,590334,1221575,325,33.5,xce feuille,1,NA,20.09
+BF_lo_08,BF_lo_08_soil_cal,bf,lo,8,Yaro Mashahoudou,cal,D. alata,Folou,soil,soil_cal,20150806,590334,1221575,325,33.5,xce feuille,1,NA,
+BF_lo_08,BF_lo_08_soil_add,bf,lo,8,Yaro Mashahoudou,add,D. alata,Folou,soil,soil_add,20150806,590334,1221575,325,33.5,xce feuille,1,NA,
+BF_lo_09,BF_lo_09_leaf,bf,lo,9,Yaro Abass,cal,D. rotundata,Wassara ,leaf,leaf,20150806,587999,1221561,321,39,xce initiation tubercule,1,NA,64.73
+BF_lo_09,BF_lo_09_vine,bf,lo,9,Yaro Abass,cal,D. rotundata,Wassara ,vine,vine,20150806,587999,1221561,321,39,xce initiation tubercule,1,NA,39.14
+BF_lo_09,BF_lo_09_soil_cal,bf,lo,9,Yaro Abass,cal,D. rotundata,Wassara ,soil,soil_cal,20150806,587999,1221561,321,39,xce initiation tubercule,1,NA,
+BF_lo_09,BF_lo_09_soil_add,bf,lo,9,Yaro Abass,add,D. rotundata,Wassara ,soil,soil_add,20150806,587999,1221561,321,39,xce initiation tubercule,1,NA,
+BF_lo_10,BF_lo_10_leaf,bf,lo,10,Tianama Madi,cal,D. rotundata,Wassara,leaf,leaf,20150806,588598,1222769,340,31.7,xce initiation tubercule,1,NA,106.56
+BF_lo_10,BF_lo_10_vine,bf,lo,10,Tianama Madi,cal,D. rotundata,Wassara,vine,vine,20150806,588598,1222769,340,31.7,xce initiation tubercule,1,NA,63.25
+BF_lo_10,BF_lo_10_tuber,bf,lo,10,Tianama Madi,cal,D. rotundata,Wassara,tuber,tuber,20150806,588598,1222769,340,31.7,xce initiation tubercule,1,NA,1.28
+BF_lo_10,BF_lo_10_soil_cal,bf,lo,10,Tianama Madi,cal,D. rotundata,Wassara,soil,soil_cal,20150806,588598,1222769,340,31.7,xce initiation tubercule,1,NA,
+BF_lo_10,BF_lo_10_soil_add,bf,lo,10,Tianama Madi,add,D. rotundata,Wassara,soil,soil_add,20150806,588598,1222769,340,31.7,xce initiation tubercule,1,NA,
+BF_lo_11,BF_lo_11_leaf,bf,lo,11,Tikaro Kousséni,cal,D. rotundata,Wassara,leaf,leaf,20150806,586230,1221051,321,37,xce initiation tubercule,1,NA,64.77
+BF_lo_11,BF_lo_11_vine,bf,lo,11,Tikaro Kousséni,cal,D. rotundata,Wassara,vine,vine,20150806,586230,1221051,321,37,xce initiation tubercule,1,NA,34.9
+BF_lo_11,BF_lo_11_tuber,bf,lo,11,Tikaro Kousséni,cal,D. rotundata,Wassara,tuber,tuber,20150806,586230,1221051,321,37,xce initiation tubercule,1,NA,1.14
+BF_lo_11,BF_lo_11_soil_cal,bf,lo,11,Tikaro Kousséni,cal,D. rotundata,Wassara,soil,soil_cal,20150806,586230,1221051,321,37,xce initiation tubercule,1,NA,
+BF_lo_11,BF_lo_11_soil_add,bf,lo,11,Tikaro Kousséni,add,D. rotundata,Wassara,soil,soil_add,20150806,586230,1221051,321,37,xce initiation tubercule,1,NA,
+BF_lo_12,BF_lo_12_leaf,bf,lo,12,Tikaro Alassane,cal,D. rotundata,Wassara,leaf,leaf,20150806,585316,1219774,328,35.4,xce initiation tubercule,1,NA,84.65
+BF_lo_12,BF_lo_12_vine,bf,lo,12,Tikaro Alassane,cal,D. rotundata,Wassara,vine,vine,20150806,585316,1219774,328,35.4,xce initiation tubercule,1,NA,55.24
+BF_lo_12,BF_lo_12_tuber,bf,lo,12,Tikaro Alassane,cal,D. rotundata,Wassara,tuber,tuber,20150806,585316,1219774,328,35.4,xce initiation tubercule,1,NA,0.75
+BF_lo_12,BF_lo_12_soil_cal,bf,lo,12,Tikaro Alassane,cal,D. rotundata,Wassara,soil,soil_cal,20150806,585316,1219774,328,35.4,xce initiation tubercule,1,NA,
+BF_lo_12,BF_lo_12_soil_add,bf,lo,12,Tikaro Alassane,add,D. rotundata,Wassara,soil,soil_add,20150806,585316,1219774,328,35.4,xce initiation tubercule,1,NA,
+BF_lo_13,BF_lo_13_leaf,bf,lo,13,Tikaro Salif,cal,D. rotundata,Wassara,leaf,leaf,20150806,586935,1219827,341,38,xce initiation tubercule,1,NA,69.78
+BF_lo_13,BF_lo_13_vine,bf,lo,13,Tikaro Salif,cal,D. rotundata,Wassara,vine,vine,20150806,586935,1219827,341,38,xce initiation tubercule,1,NA,43.6
+BF_lo_13,BF_lo_13_tuber,bf,lo,13,Tikaro Salif,cal,D. rotundata,Wassara,tuber,tuber,20150806,586935,1219827,341,38,xce initiation tubercule,1,NA,2.22
+BF_lo_13,BF_lo_13_soil_cal,bf,lo,13,Tikaro Salif,cal,D. rotundata,Wassara,soil,soil_cal,20150806,586935,1219827,341,38,xce initiation tubercule,1,NA,
+BF_lo_13,BF_lo_13_soil_add,bf,lo,13,Tikaro Salif,add,D. rotundata,Wassara,soil,soil_add,20150806,586935,1219827,341,38,xce initiation tubercule,1,NA,
+BF_lo_14,BF_lo_14_leaf,bf,lo,14,Yaro Dramane,cal,D. rotundata,Wassara,leaf,leaf,20150807,588504,1220047,328,39.8,xce initiation tubercule,1,NA,60.84
+BF_lo_14,BF_lo_14_vine,bf,lo,14,Yaro Dramane,cal,D. rotundata,Wassara,vine,vine,20150807,588504,1220047,328,39.8,xce initiation tubercule,1,NA,31.34
+BF_lo_14,BF_lo_14_soil_cal,bf,lo,14,Yaro Dramane,cal,D. rotundata,Wassara,soil,soil_cal,20150807,588504,1220047,328,39.8,xce initiation tubercule,1,NA,
+BF_lo_14,BF_lo_14_soil_add,bf,lo,14,Yaro Dramane,add,D. rotundata,Wassara,soil,soil_add,20150807,588504,1220047,328,39.8,xce initiation tubercule,1,NA,
+BF_lo_15,BF_lo_15_leaf,bf,lo,15,Nignan Suleymane,cal,D. rotundata,Wassara,leaf,leaf,20150807,588686,1219955,321,41.3,xce initiation tubercule,NA,NA,82.11
+BF_lo_15,BF_lo_15_vine,bf,lo,15,Nignan Suleymane,cal,D. rotundata,Wassara,vine,vine,20150807,588686,1219955,321,41.3,xce initiation tubercule,NA,NA,52.38
+BF_lo_15,BF_lo_15_soil_cal,bf,lo,15,Nignan Suleymane,cal,D. rotundata,Wassara,soil,soil_cal,20150807,588686,1219955,321,41.3,xce initiation tubercule,NA,NA,
+BF_lo_15,BF_lo_15_soil_add,bf,lo,15,Nignan Suleymane,add,D. rotundata,Wassara,soil,soil_add,20150807,588686,1219955,321,41.3,xce initiation tubercule,NA,NA,
+BF_lo_16,BF_lo_16_leaf,bf,lo,16,Nignan Mahamadou,cal,D. rotundata,Wassara,leaf,leaf,20150807,589096,1219312,330,31.3,xce initiation tubercule,NA,NA,78.47
+BF_lo_16,BF_lo_16_vine,bf,lo,16,Nignan Mahamadou,cal,D. rotundata,Wassara,vine,vine,20150807,589096,1219312,330,31.3,xce initiation tubercule,NA,NA,42.37
+BF_lo_16,BF_lo_16_tuber,bf,lo,16,Nignan Mahamadou,cal,D. rotundata,Wassara,tuber,tuber,20150807,589096,1219312,330,31.3,xce initiation tubercule,NA,NA,5.73
+BF_lo_16,BF_lo_16_soil_cal,bf,lo,16,Nignan Mahamadou,cal,D. rotundata,Wassara,soil,soil_cal,20150807,589096,1219312,330,31.3,xce initiation tubercule,NA,NA,
+BF_lo_16,BF_lo_16_soil_add,bf,lo,16,Nignan Mahamadou,add,D. rotundata,Wassara,soil,soil_add,20150807,589096,1219312,330,31.3,xce initiation tubercule,NA,NA,
+BF_lo_17,BF_lo_17_leaf,bf,lo,17,Nignan Salif,cal,D. alata,Folou,leaf,leaf,20150807,589146,1218524,338,33.4,xce initiation tubercule,1,NA,74.89
+BF_lo_17,BF_lo_17_vine,bf,lo,17,Nignan Salif,cal,D. alata,Folou,vine,vine,20150807,589146,1218524,338,33.4,xce initiation tubercule,1,NA,33.62
+BF_lo_17,BF_lo_17_soil_cal,bf,lo,17,Nignan Salif,cal,D. alata,Folou,soil,soil_cal,20150807,589146,1218524,338,33.4,xce initiation tubercule,1,NA,
+BF_lo_17,BF_lo_17_soil_add,bf,lo,17,Nignan Salif,add,D. alata,Folou,soil,soil_add,20150807,589146,1218524,338,33.4,xce initiation tubercule,1,NA,
+BF_lo_18,BF_lo_18_leaf,bf,lo,18,Nignan Daouda ,cal,D. rotundata,Pouna,leaf,leaf,20150807,588688,1219307,328,32,xce initiation tubercule,1,NA,84.7
+BF_lo_18,BF_lo_18_vine,bf,lo,18,Nignan Daouda ,cal,D. rotundata,Pouna,vine,vine,20150807,588688,1219307,328,32,xce initiation tubercule,1,NA,37.18
+BF_lo_18,BF_lo_18_soil_cal,bf,lo,18,Nignan Daouda ,cal,D. rotundata,Pouna,soil,soil_cal,20150807,588688,1219307,328,32,xce initiation tubercule,1,NA,
+BF_lo_18,BF_lo_18_soil_add,bf,lo,18,Nignan Daouda ,add,D. rotundata,Pouna,soil,soil_add,20150807,588688,1219307,328,32,xce initiation tubercule,1,NA,
+BF_lo_19,BF_lo_19_leaf,bf,lo,19,Tianama Abdul Razac,cal,D. rotundata,Wassara,leaf,leaf,20150807,587605,1219618,342,36,xce initiation tubercule,1,NA,71.28
+BF_lo_19,BF_lo_19_vine,bf,lo,19,Tianama Abdul Razac,cal,D. rotundata,Wassara,vine,vine,20150807,587605,1219618,342,36,xce initiation tubercule,1,NA,43.57
+BF_lo_19,BF_lo_19_soil_cal,bf,lo,19,Tianama Abdul Razac,cal,D. rotundata,Wassara,soil,soil_cal,20150807,587605,1219618,342,36,xce initiation tubercule,1,NA,
+BF_lo_19,BF_lo_19_soil_add,bf,lo,19,Tianama Abdul Razac,add,D. rotundata,Wassara,soil,soil_add,20150807,587605,1219618,342,36,xce initiation tubercule,1,NA,
+BF_lo_20,BF_lo_20_leaf,bf,lo,20,Nignan Boukary,cal,D. rotundata,Wassara,leaf,leaf,20150808,588968,1224375,337,41.3,xce initiation tubercule,1,NA,67.11
+BF_lo_20,BF_lo_20_vine,bf,lo,20,Nignan Boukary,cal,D. rotundata,Wassara,vine,vine,20150808,588968,1224375,337,41.3,xce initiation tubercule,1,NA,26.63
+BF_lo_20,BF_lo_20_soil_cal,bf,lo,20,Nignan Boukary,cal,D. rotundata,Wassara,soil,soil_cal,20150808,588968,1224375,337,41.3,xce initiation tubercule,1,NA,
+BF_lo_20,BF_lo_20_soil_add,bf,lo,20,Nignan Boukary,add,D. rotundata,Wassara,soil,soil_add,20150808,588968,1224375,337,41.3,xce initiation tubercule,1,NA,
+BF_lo_01,BF_lo_01_tuber_x1,bf,lo,x1,Market Léo,cal,D. alata,,tuber,tuber,,,,,,,,,52.51
+BF_lo_02,BF_lo_02_tuber_x2,bf,lo,x2,Market Léo,cal,D. alata,,tuber,tuber,,,,,,,,,58.13
+BF_lo_03,BF_lo_03_tuber_x3,bf,lo,x3,Market Léo,cal,D. alata,,tuber,tuber,,,,,,,,,66.51
+BF_lo_04,BF_lo_04_tuber_x4,bf,lo,x4,Market Léo,cal,D. alata,,tuber,tuber,,,,,,,,,80.95
+BF_lo_05,BF_lo_05_tuber_x5,bf,lo,x5,Market Léo,cal,D. alata,,tuber,tuber,,,,,,,,,50.87
+BF_lo_06,BF_lo_06_tuber_x6,bf,lo,x6,Market Léo,cal,D. alata,,tuber,tuber,,,,,,,,,56.6
+BF_lo_07,BF_lo_07_tuber_x7,bf,lo,x7,Market Léo,cal,D. alata,,tuber,tuber,,,,,,,,,67.16
+BF_lo_08,BF_lo_08_tuber_x8,bf,lo,x8,Market Léo,cal,D. alata,,tuber,tuber,,,,,,,,,44.86
+BF_lo_09,BF_lo_09_tuber_x9,bf,lo,x9,Market Léo,cal,D. alata,,tuber,tuber,,,,,,,,,61.85
+BF_lo_10,BF_lo_10_tuber_x10,bf,lo,x10,Market Léo,cal,D. alata,,tuber,tuber,,,,,,,,,48.38
+BF_lo_11,BF_lo_11_tuber_x11,bf,lo,x11,Market Léo,cal,D. rotundata,,tuber,tuber,,,,,,,,,48.61
+BF_lo_12,BF_lo_12_tuber_x12,bf,lo,x12,Market Léo,cal,D. rotundata,,tuber,tuber,,,,,,,,,63.64
+BF_lo_13,BF_lo_13_tuber_x13,bf,lo,x13,Market Léo,cal,D. rotundata,,tuber,tuber,,,,,,,,,57.31
+BF_lo_14,BF_lo_14_tuber_x14,bf,lo,x14,Market Léo,cal,D. rotundata,,tuber,tuber,,,,,,,,,53.96
+BF_lo_15,BF_lo_15_tuber_x15,bf,lo,x15,Market Léo,cal,D. rotundata,,tuber,tuber,,,,,,,,,57.54
+BF_lo_16,BF_lo_16_tuber_x16,bf,lo,x16,Market Léo,cal,D. rotundata,,tuber,tuber,,,,,,,,,55.01
+BF_lo_17,BF_lo_17_tuber_x17,bf,lo,x17,Market Léo,cal,D. rotundata,,tuber,tuber,,,,,,,,,62.54
+BF_lo_18,BF_lo_18_tuber_x18,bf,lo,x18,Market Léo,cal,D. rotundata,,tuber,tuber,,,,,,,,,84.7
+BF_lo_19,BF_lo_19_tuber_x19,bf,lo,x19,Market Léo,cal,D. rotundata,,tuber,tuber,,,,,,,,,61.74
+BF_lo_20,BF_lo_20_tuber_x20,bf,lo,x20,Market Léo,cal,D. rotundata,,tuber,tuber,,,,,,,,,58.83

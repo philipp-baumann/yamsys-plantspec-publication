@@ -1,0 +1,117 @@
+field_ID,sample_ID,country,site,farmer_no,farmer_name,type,species,variety,material,mat_type,date,gps_long,gps_lat,alt,spad,stade,tuteurage,comment,dw_total
+CI_sb_01,CI_sb_01_leaf,ci,sb,1,Angoua Albert,cal,D. rotundata,Krenglé,leaf,leaf,20150718,0790341,0650996,123,39.4,xce feuille,1,,37.8
+CI_sb_01,CI_sb_01_vine,ci,sb,1,Angoua Albert,cal,D. rotundata,Krenglé,vine,vine ,20150718,0790341,0650996,123,39.4,xce feuille,1,,20.19
+CI_sb_01,CI_sb_01_tuber,ci,sb,1,Angoua Albert,cal,D. rotundata,Krenglé,tuber,tuber,20150718,0790341,0650996,123,39.4,xce feuille,1,,49.41
+CI_sb_01,CI_sb_01_soil_cal,ci,sb,1,Angoua Albert,cal,D. rotundata,Krenglé,soil,soil_cal,20150718,0790341,0650996,123,39.4,xce feuille,1,,
+CI_sb_01,CI_sb_01_soil_add,ci,sb,1,Angoua Albert,add,D. rotundata,Krenglé,soil,soil_add,20150718,0790341,0650996,123,39.4,xce feuille,1,,
+CI_sb_02,CI_sb_02_leaf,ci,sb,2,Assé Kla,cal,D. alata,Bètè bètè,leaf,leaf,20150719,0792402,0652470,174,33.8,xce initiation tubercule,0,,17.19
+CI_sb_02,CI_sb_02_vine,ci,sb,2,Assé Kla,cal,D. alata,Bètè bètè,vine,vine ,20150719,0792402,0652470,174,33.8,xce initiation tubercule,0,,8.27
+CI_sb_02,CI_sb_02_soil_cal,ci,sb,2,Assé Kla,cal,D. alata,Bètè bètè,soil,soil_cal,20150719,0792402,0652470,174,33.8,xce initiation tubercule,0,,
+CI_sb_02,CI_sb_02_soil_add,ci,sb,2,Assé Kla,add,D. alata,Bètè bètè,soil,soil_add,20150719,0792402,0652470,174,33.8,xce initiation tubercule,0,,
+CI_sb_03a,CI_sb_03a_leaf,ci,sb,3,Yao N'Guessan Sévérin,cal,D. rotundata,Bondoukou,leaf,leaf,20150720,0792092,0648206,183,31.7,xce feuille,0,,9.23
+CI_sb_03a,CI_sb_03a_vine,ci,sb,3,Yao N'Guessan Sévérin,cal,D. rotundata,Bondoukou,vine,vine ,20150720,0792092,0648206,183,31.7,xce feuille,0,,8.02
+CI_sb_03b,CI_sb_03b_leaf,ci,sb,3,Yao N'Guessan Sévérin,cal,D. alata,Bètè bètè,leaf,leaf,20150720,0792092,0648206,183,31.7,xce feuille,0,,11.61
+CI_sb_03b,CI_sb_03b_vine,ci,sb,3,Yao N'Guessan Sévérin,cal,D. alata,Bètè bètè,vine,vine ,20150720,0792092,0648206,183,31.7,xce feuille,0,,6.32
+CI_sb_03b,CI_sb_03b_tuber,ci,sb,3,Yao N'Guessan Sévérin,cal,D. alata,Bètè bètè,tuber,tuber,20150720,0792092,0648206,183,31.7,xce feuille,0,,55.52
+CI_sb_03,CI_sb_03_soil_cal,ci,sb,3,Yao N'Guessan Sévérin,cal,D. rotundata,Bondoukou,soil,soil_cal,20150720,0792092,0648206,183,31.7,xce feuille,0,,
+CI_sb_03,CI_sb_03_soil_add,ci,sb,3,Yao N'Guessan Sévérin,add,D. rotundata,Bondoukou,soil,soil_add,20150720,0792092,0648206,183,31.7,xce feuille,0,,
+CI_sb_04,CI_sb_04_leaf,ci,sb,4,Kouassi Yao Bénjamin,cal,D. alata,Florido,leaf,leaf,20150720,0792324,0647186,196,34.6,xce initiation tubercule,1,,23.96
+CI_sb_04,CI_sb_04_vine,ci,sb,4,Kouassi Yao Bénjamin,cal,D. alata,Florido,vine,vine ,20150720,0792324,0647186,196,34.6,xce initiation tubercule,1,,12.15
+CI_sb_04,CI_sb_04_tuber,ci,sb,4,Kouassi Yao Bénjamin,cal,D. alata,Florido,tuber,tuber,20150720,0792324,0647186,196,34.6,xce initiation tubercule,1,,24.8
+CI_sb_04,CI_sb_04_soil_cal,ci,sb,4,Kouassi Yao Bénjamin,cal,D. alata,Florido,soil,soil_cal,20150720,0792324,0647186,196,34.6,xce initiation tubercule,1,,
+CI_sb_04,CI_sb_04_soil_add,ci,sb,4,Kouassi Yao Bénjamin,add,D. alata,Florido,soil,soil_add,20150720,0792324,0647186,196,34.6,xce initiation tubercule,1,,
+CI_sb_05,CI_sb_05_leaf,ci,sb,5,Koudio Kouakou Théodor,cal,D. alata,Bètè bètè,leaf,leaf,20150720,0793286,0647208,197,27.2,xce initiation tubercule,1,,11.72
+CI_sb_05,CI_sb_05_vine,ci,sb,5,Koudio Kouakou Théodor,cal,D. alata,Bètè bètè,vine,vine ,20150720,0793286,0647208,197,27.2,xce initiation tubercule,1,,5.86
+CI_sb_05,CI_sb_05_tuber,ci,sb,5,Koudio Kouakou Théodor,cal,D. alata,Bètè bètè,tuber,tuber,20150720,0793286,0647208,197,27.2,xce initiation tubercule,1,,72.08
+CI_sb_05,CI_sb_05_soil_cal,ci,sb,5,Koudio Kouakou Théodor,cal,D. alata,Bètè bètè,soil,soil_cal,20150720,0793286,0647208,197,27.2,xce initiation tubercule,1,,
+CI_sb_05,CI_sb_05_soil_add,ci,sb,5,Koudio Kouakou Théodor,add,D. alata,Bètè bètè,soil,soil_add,20150720,0793286,0647208,197,27.2,xce initiation tubercule,1,,
+CI_sb_06,CI_sb_06_leaf,ci,sb,6,Koffi Kan Fabrice,cal,D. alata,Bètè bètè,leaf,leaf,20150720,0793437,0647963,200,39,xce initiation tubercule,0,,29.68
+CI_sb_06,CI_sb_06_vine,ci,sb,6,Koffi Kan Fabrice,cal,D. alata,Bètè bètè,vine,vine ,20150720,0793437,0647963,200,39,xce initiation tubercule,0,,17.86
+CI_sb_06,CI_sb_06_tuber,ci,sb,6,Koffi Kan Fabrice,cal,D. alata,Bètè bètè,tuber,tuber,20150720,0793437,0647963,200,39,xce initiation tubercule,0,,56.27
+CI_sb_06,CI_sb_06_soil_cal,ci,sb,6,Koffi Kan Fabrice,cal,D. alata,Bètè bètè,soil,soil_cal,20150720,0793437,0647963,200,39,xce initiation tubercule,0,,
+CI_sb_06,CI_sb_06_soil_add,ci,sb,6,Koffi Kan Fabrice,add,D. alata,Bètè bètè,soil,soil_add,20150720,0793437,0647963,200,39,xce initiation tubercule,0,,
+CI_sb_07,CI_sb_07_leaf,ci,sb,7,N'Guessan Kouakou Simplice,cal,D. alata,Cameroun,leaf,leaf,20150721,0786000,0655800,191,53.2,xce initiation tubercule,0,,35.73
+CI_sb_07,CI_sb_07_vine,ci,sb,7,N'Guessan Kouakou Simplice,cal,D. alata,Cameroun,vine,vine ,20150721,0786000,0655800,191,53.2,xce initiation tubercule,0,,14.22
+CI_sb_07,CI_sb_07_tuber,ci,sb,7,N'Guessan Kouakou Simplice,cal,D. alata,Cameroun,tuber,tuber,20150721,0786000,0655800,191,53.2,xce initiation tubercule,0,,81.86
+CI_sb_07,CI_sb_07_soil_cal,ci,sb,7,N'Guessan Kouakou Simplice,cal,D. alata,Cameroun,soil,soil_cal,20150721,0786000,0655800,191,53.2,xce initiation tubercule,0,,
+CI_sb_07,CI_sb_07_soil_add,ci,sb,7,N'Guessan Kouakou Simplice,add,D. alata,Cameroun,soil,soil_add,20150721,0786000,0655800,191,53.2,xce initiation tubercule,0,,
+CI_sb_08,CI_sb_08_leaf,ci,sb,8,Kouame Yao Jean,cal,D. alata,Bètè bètè,leaf,leaf,20150721,0786277,0655882,192,34.3,xce initiation tubercule,0,,35.91
+CI_sb_08,CI_sb_08_vine,ci,sb,8,Kouame Yao Jean,cal,D. alata,Bètè bètè,vine,vine ,20150721,0786277,0655882,192,34.3,xce initiation tubercule,0,,20.21
+CI_sb_08,CI_sb_08_tuber,ci,sb,8,Kouame Yao Jean,cal,D. alata,Bètè bètè,tuber,tuber,20150721,0786277,0655882,192,34.3,xce initiation tubercule,0,,69.33
+CI_sb_08,CI_sb_08_soil_cal,ci,sb,8,Kouame Yao Jean,cal,D. alata,Bètè bètè,soil,soil_cal,20150721,0786277,0655882,192,34.3,xce initiation tubercule,0,,
+CI_sb_08,CI_sb_08_soil_add,ci,sb,8,Kouame Yao Jean,add,D. alata,Bètè bètè,soil,soil_add,20150721,0786277,0655882,192,34.3,xce initiation tubercule,0,,
+CI_sb_09,CI_sb_09_leaf,ci,sb,9,Konan Kan Léandre,cal,D. alata,Cameroun,leaf,leaf,20150721,0786225,0654137,156,36.9,xce initiation tubercule,0,,20.98
+CI_sb_09,CI_sb_09_vine,ci,sb,9,Konan Kan Léandre,cal,D. alata,Cameroun,vine,vine ,20150721,0786225,0654137,156,36.9,xce initiation tubercule,0,,12.36
+CI_sb_09,CI_sb_09_tuber,ci,sb,9,Konan Kan Léandre,cal,D. alata,Cameroun,tuber,tuber,20150721,0786225,0654137,156,36.9,xce initiation tubercule,0,,67.02
+CI_sb_09,CI_sb_09_soil_cal,ci,sb,9,Konan Kan Léandre,cal,D. alata,Cameroun,soil,soil_cal,20150721,0786225,0654137,156,36.9,xce initiation tubercule,0,,
+CI_sb_09,CI_sb_09_soil_add,ci,sb,9,Konan Kan Léandre,add,D. alata,Cameroun,soil,soil_add,20150721,0786225,0654137,156,36.9,xce initiation tubercule,0,,
+CI_sb_10,CI_sb_10_leaf,ci,sb,10,Kacou Affoué Emilie,cal,D. alata,Cameroun,leaf,leaf,20150721,0784276,0654911,170,34.9,xce initiation tubercule,0,,66.02
+CI_sb_10,CI_sb_10_vine,ci,sb,10,Kacou Affoué Emilie,cal,D. alata,Cameroun,vine,vine ,20150721,0784276,0654911,170,34.9,xce initiation tubercule,0,,23
+CI_sb_10,CI_sb_10_tuber,ci,sb,10,Kacou Affoué Emilie,cal,D. alata,Cameroun,tuber,tuber,20150721,0784276,0654911,170,34.9,xce initiation tubercule,0,,70.73
+CI_sb_10,CI_sb_10_soil_cal,ci,sb,10,Kacou Affoué Emilie,cal,D. alata,Cameroun,soil,soil_cal,20150721,0784276,0654911,170,34.9,xce initiation tubercule,0,,
+CI_sb_10,CI_sb_10_soil_add,ci,sb,10,Kacou Affoué Emilie,add,D. alata,Cameroun,soil,soil_add,20150721,0784276,0654911,170,34.9,xce initiation tubercule,0,,
+CI_sb_11,CI_sb_11_leaf,ci,sb,11,Kouassi Yao Firmin,cal,D. alata,Cameroun,leaf,leaf,20150721,0784785,0653426,155,30.5,xce initiation tubercule,0,,15.26
+CI_sb_11,CI_sb_11_vine,ci,sb,11,Kouassi Yao Firmin,cal,D. alata,Cameroun,vine,vine ,20150721,0784785,0653426,155,30.5,xce initiation tubercule,0,,8.48
+CI_sb_11,CI_sb_11_tuber,ci,sb,11,Kouassi Yao Firmin,cal,D. alata,Cameroun,tuber,tuber,20150721,0784785,0653426,155,30.5,xce initiation tubercule,0,,102.57
+CI_sb_11,CI_sb_11_soil_cal,ci,sb,11,Kouassi Yao Firmin,cal,D. alata,Cameroun,soil,soil_cal,20150721,0784785,0653426,155,30.5,xce initiation tubercule,0,,
+CI_sb_11,CI_sb_11_soil_add,ci,sb,11,Kouassi Yao Firmin,add,D. alata,Cameroun,soil,soil_add,20150721,0784785,0653426,155,30.5,xce initiation tubercule,0,,
+CI_sb_12,CI_sb_12_leaf,ci,sb,12,Kouadio Kouame Robert,cal,D. alata,Cameroun,leaf,leaf,20150721,0784684,0650898,145,50.6,xce initiation tubercule,0,,27.57
+CI_sb_12,CI_sb_12_vine,ci,sb,12,Kouadio Kouame Robert,cal,D. alata,Cameroun,vine,vine ,20150721,0784684,0650898,145,50.6,xce initiation tubercule,0,,12.39
+CI_sb_12,CI_sb_12_tuber,ci,sb,12,Kouadio Kouame Robert,cal,D. alata,Cameroun,tuber,tuber,20150721,0784684,0650898,145,50.6,xce initiation tubercule,0,,86.79
+CI_sb_12,CI_sb_12_soil_cal,ci,sb,12,Kouadio Kouame Robert,cal,D. alata,Cameroun,soil,soil_cal,20150721,0784684,0650898,145,50.6,xce initiation tubercule,0,,
+CI_sb_12,CI_sb_12_soil_add,ci,sb,12,Kouadio Kouame Robert,add,D. alata,Cameroun,soil,soil_add,20150721,0784684,0650898,145,50.6,xce initiation tubercule,0,,
+CI_sb_13,CI_sb_13_leaf,ci,sb,13,N'Guessan Kouassi Hilaile,cal,D. alata,Cameroun,leaf,leaf,20150721,0783915,0647584,132,43.8,xce initiation tubercule,0,,56.48
+CI_sb_13,CI_sb_13_vine,ci,sb,13,N'Guessan Kouassi Hilaile,cal,D. alata,Cameroun,vine,vine ,20150721,0783915,0647584,132,43.8,xce initiation tubercule,0,,35.93
+CI_sb_13,CI_sb_13_tuber,ci,sb,13,N'Guessan Kouassi Hilaile,cal,D. alata,Cameroun,tuber,tuber,20150721,0783915,0647584,132,43.8,xce initiation tubercule,0,,69.35
+CI_sb_13,CI_sb_13_soil_cal,ci,sb,13,N'Guessan Kouassi Hilaile,cal,D. alata,Cameroun,soil,soil_cal,20150721,0783915,0647584,132,43.8,xce initiation tubercule,0,,
+CI_sb_13,CI_sb_13_soil_add,ci,sb,13,N'Guessan Kouassi Hilaile,add,D. alata,Cameroun,soil,soil_add,20150721,0783915,0647584,132,43.8,xce initiation tubercule,0,,
+CI_sb_14,CI_sb_14_leaf,ci,sb,14,Koffi Pagba,cal,D. alata,Cameroun,leaf,leaf,20150721,0785742,0651800,160,40.8,xce initiation tubercule,0,,39.52
+CI_sb_14,CI_sb_14_vine,ci,sb,14,Koffi Pagba,cal,D. alata,Cameroun,vine,vine ,20150721,0785742,0651800,160,40.8,xce initiation tubercule,0,,18.36
+CI_sb_14,CI_sb_14_tuber,ci,sb,14,Koffi Pagba,cal,D. alata,Cameroun,tuber,tuber,20150721,0785742,0651800,160,40.8,xce initiation tubercule,0,,69.46
+CI_sb_14,CI_sb_14_soil_cal,ci,sb,14,Koffi Pagba,cal,D. alata,Cameroun,soil,soil_cal,20150721,0785742,0651800,160,40.8,xce initiation tubercule,0,,
+CI_sb_14,CI_sb_14_soil_add,ci,sb,14,Koffi Pagba,add,D. alata,Cameroun,soil,soil_add,20150721,0785742,0651800,160,40.8,xce initiation tubercule,0,,
+CI_sb_15,CI_sb_15_leaf,ci,sb,15,Gnandré Zadi Vincent,cal,D. alata,Bètè bètè,leaf,leaf,20150722,0787245,0648705,148,34.8,xce initiation tubercule,0,,22.74
+CI_sb_15,CI_sb_15_vine,ci,sb,15,Gnandré Zadi Vincent,cal,D. alata,Bètè bètè,vine,vine ,20150722,0787245,0648705,148,34.8,xce initiation tubercule,0,,12.25
+CI_sb_15,CI_sb_15_soil_cal,ci,sb,15,Gnandré Zadi Vincent,cal,D. alata,Bètè bètè,soil,soil_cal,20150722,0787245,0648705,148,34.8,xce initiation tubercule,0,,
+CI_sb_15,CI_sb_15_soil_add,ci,sb,15,Gnandré Zadi Vincent,add,D. alata,Bètè bètè,soil,soil_add,20150722,0787245,0648705,148,34.8,xce initiation tubercule,0,,
+CI_sb_16,CI_sb_16_leaf,ci,sb,16,Yao Afoué Madelaine,cal,D. alata,Bètè bètè,leaf,leaf,20150722,0786954,0649448,142,38.7,xce initiation tubercule,0,,17.02
+CI_sb_16,CI_sb_16_vine,ci,sb,16,Yao Afoué Madelaine,cal,D. alata,Bètè bètè,vine,vine ,20150722,0786954,0649448,142,38.7,xce initiation tubercule,0,,8.28
+CI_sb_16,CI_sb_16_soil_cal,ci,sb,16,Yao Afoué Madelaine,cal,D. alata,Bètè bètè,soil,soil_cal,20150722,0786954,0649448,142,38.7,xce initiation tubercule,0,,
+CI_sb_16,CI_sb_16_soil_add,ci,sb,16,Yao Afoué Madelaine,add,D. alata,Bètè bètè,soil,soil_add,20150722,0786954,0649448,142,38.7,xce initiation tubercule,0,,
+CI_sb_17,CI_sb_17_leaf,ci,sb,17,Zadi Silvanus,cal,D. alata,Bètè bètè,leaf,leaf,20150722,0786328,0649494,143,39,xce initiation tubercule,0,,30.94
+CI_sb_17,CI_sb_17_vine,ci,sb,17,Zadi Silvanus,cal,D. alata,Bètè bètè,vine,vine ,20150722,0786328,0649494,143,39,xce initiation tubercule,0,,21.04
+CI_sb_17,CI_sb_17_tuber,ci,sb,17,Zadi Silvanus,cal,D. alata,Bètè bètè,tuber,tuber,20150722,0786328,0649494,143,39,xce initiation tubercule,0,,77.02
+CI_sb_17,CI_sb_17_soil_cal,ci,sb,17,Zadi Silvanus,cal,D. alata,Bètè bètè,soil,soil_cal,20150722,0786328,0649494,143,39,xce initiation tubercule,0,,
+CI_sb_17,CI_sb_17_soil_add,ci,sb,17,Zadi Silvanus,add,D. alata,Bètè bètè,soil,soil_add,20150722,0786328,0649494,143,39,xce initiation tubercule,0,,
+CI_sb_18,CI_sb_18_leaf,ci,sb,18,Gozé Dokué Robert,cal,D. alata,Bètè bètè,leaf,leaf,20150722,0787741,0650624,151,37.6,xce initiation tubercule,0,,39.94
+CI_sb_18,CI_sb_18_vine,ci,sb,18,Gozé Dokué Robert,cal,D. alata,Bètè bètè,vine,vine ,20150722,0787741,0650624,151,37.6,xce initiation tubercule,0,,20.32
+CI_sb_18,CI_sb_18_tuber,ci,sb,18,Gozé Dokué Robert,cal,D. alata,Bètè bètè,tuber,tuber,20150722,0787741,0650624,151,37.6,xce initiation tubercule,0,,89.26
+CI_sb_18,CI_sb_18_soil_cal,ci,sb,18,Gozé Dokué Robert,cal,D. alata,Bètè bètè,soil,soil_cal,20150722,0787741,0650624,151,37.6,xce initiation tubercule,0,,
+CI_sb_18,CI_sb_18_soil_add,ci,sb,18,Gozé Dokué Robert,add,D. alata,Bètè bètè,soil,soil_add,20150722,0787741,0650624,151,37.6,xce initiation tubercule,0,,
+CI_sb_19,CI_sb_19_leaf,ci,sb,19,Kouadiou Kouadiou Thomas,cal,D. alata,Cameroun,leaf,leaf,20150723,0789745,0650759,156,30,xce initiation tubercule,0,,56.87
+CI_sb_19,CI_sb_19_vine,ci,sb,19,Kouadiou Kouadiou Thomas,cal,D. alata,Cameroun,vine,vine ,20150723,0789745,0650759,156,30,xce initiation tubercule,0,,27.12
+CI_sb_19,CI_sb_19_soil_cal,ci,sb,19,Kouadiou Kouadiou Thomas,cal,D. alata,Cameroun,soil,soil_cal,20150723,0789745,0650759,156,30,xce initiation tubercule,0,,
+CI_sb_19,CI_sb_19_soil_add,ci,sb,19,Kouadiou Kouadiou Thomas,add,D. alata,Cameroun,soil,soil_add,20150723,0789745,0650759,156,30,xce initiation tubercule,0,,
+CI_sb_20,CI_sb_20_leaf,ci,sb,20,Rovia Kouassi,cal,D. alata,Cameroun,leaf,leaf,20150723,0789953,0652414,163,29.5,xce initiation tubercule,0,,44.07
+CI_sb_20,CI_sb_20_vine,ci,sb,20,Rovia Kouassi,cal,D. alata,Cameroun,vine,vine ,20150723,0789953,0652414,163,29.5,xce initiation tubercule,0,,23.97
+CI_sb_20,CI_sb_20_soil_cal,ci,sb,20,Rovia Kouassi,cal,D. alata,Cameroun,soil,soil_cal,20150723,0789953,0652414,163,29.5,xce initiation tubercule,0,,
+CI_sb_20,CI_sb_20_soil_add,ci,sb,20,Rovia Kouassi,add,D. alata,Cameroun,soil,soil_add,20150723,0789953,0652414,163,29.5,xce initiation tubercule,0,,
+CI_sb_02,CI_sb_02_tuber_x1,ci,sb,x1,Bringakro CSRS,cal,D. alata,,tuber,tuber,,,,,,,,,54.43
+CI_sb_15,CI_sb_15_tuber_x2,ci,sb,x2,Bringakro CSRS,cal,D. alata,,tuber,tuber,,,,,,,,,83.26
+CI_sb_16,CI_sb_16_tuber_x3,ci,sb,x3,Bringakro CSRS,cal,D. alata,,tuber,tuber,,,,,,,,,65.34
+CI_sb_19,CI_sb_19_tuber_x4,ci,sb,x4,Bringakro CSRS,cal,D. alata,,tuber,tuber,,,,,,,,,75.57
+CI_sb_20,CI_sb_20_tuber_x5,ci,sb,x5,Bringakro CSRS,cal,D. alata,,tuber,tuber,,,,,,,,,88.72
+CI_sb_YAMS_0001,CI_sb_YAMS_0001,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0002,CI_sb_YAMS_0002,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0003,CI_sb_YAMS_0003,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0004,CI_sb_YAMS_0004,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0005,CI_sb_YAMS_0005,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0006,CI_sb_YAMS_0006,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0007,CI_sb_YAMS_0007,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0008,CI_sb_YAMS_0008,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0009,CI_sb_YAMS_0009,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0010,CI_sb_YAMS_0010,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0011,CI_sb_YAMS_0011,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0012,CI_sb_YAMS_0012,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0013,CI_sb_YAMS_0013,ci,sb_YAMS,,,,,,soil,,,,,,,,,,
+CI_sb_YAMS_0014,CI_sb_YAMS_0014,ci,sb_YAMS,,,,,,soil,,,,,,,,,,

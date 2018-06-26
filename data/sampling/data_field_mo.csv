@@ -1,0 +1,103 @@
+field_ID,sample_ID,country,site,farmer_no,farmer_name,type,species,variety,material,mat_type,date,gps_long,gps_lat,alt,spad,stade,tuteurage,comment,dw_total
+BF_mo_01,BF_mo_01_leaf,bf,mo,1,Kambiré Kerkiletè,cal,D. alata,Flado/Américain,leaf,leaf,20150811,485926,1102523,291,32.3,xce initiation tubercule,0,NA,93.63
+BF_mo_01,BF_mo_01_vine,bf,mo,1,Kambiré Kerkiletè,cal,D. alata,Flado/Américain,vine,vine,20150811,485926,1102523,291,32.3,xce initiation tubercule,0,NA,34.15
+BF_mo_01,BF_mo_01_soil_cal,bf,mo,1,Kambiré Kerkiletè,cal,D. alata,Flado/Américain,soil,soil_cal,20150811,485926,1102523,291,32.3,xce initiation tubercule,0,NA,
+BF_mo_01,BF_mo_01_soil_add,bf,mo,1,Kambiré Kerkiletè,add,D. alata,Flado/Américain,soil,soil_add,20150811,485926,1102523,291,32.3,xce initiation tubercule,0,NA,
+BF_mo_02,BF_mo_02_leaf,bf,mo,2,Kambiré Kalansaré,cal,D. alata,Flado/Américain,leaf,leaf,20150811,484743,1105353,317,54,xce initiation tubercule,0,NA,63.66
+BF_mo_02,BF_mo_02_vine,bf,mo,2,Kambiré Kalansaré,cal,D. alata,Flado/Américain,vine,vine,20150811,484743,1105353,317,54,xce initiation tubercule,0,NA,22.59
+BF_mo_02,BF_mo_02_soil_cal,bf,mo,2,Kambiré Kalansaré,cal,D. alata,Flado/Américain,soil,soil_cal,20150811,484743,1105353,317,54,xce initiation tubercule,0,NA,
+BF_mo_02,BF_mo_02_soil_add,bf,mo,2,Kambiré Kalansaré,add,D. alata,Flado/Américain,soil,soil_add,20150811,484743,1105353,317,54,xce initiation tubercule,0,NA,
+BF_mo_03,BF_mo_03_leaf,bf,mo,3,Da Guekpoté,cal,D. rotundata,Pahinté,leaf,leaf,20150811,483258,1106330,314,29.1,xce initiation tubercule,1,NA,102.53
+BF_mo_03,BF_mo_03_vine,bf,mo,3,Da Guekpoté,cal,D. rotundata,Pahinté,vine,vine,20150811,483258,1106330,314,29.1,xce initiation tubercule,1,NA,47.78
+BF_mo_03,BF_mo_03_soil_cal,bf,mo,3,Da Guekpoté,cal,D. rotundata,Pahinté,soil,soil_cal,20150811,483258,1106330,314,29.1,xce initiation tubercule,1,NA,
+BF_mo_03,BF_mo_03_soil_add,bf,mo,3,Da Guekpoté,add,D. rotundata,Pahinté,soil,soil_add,20150811,483258,1106330,314,29.1,xce initiation tubercule,1,NA,
+BF_mo_04,BF_mo_04_leaf,bf,mo,4,Palé Dihebté,cal,D. alata,Flado/Américain,leaf,leaf,20150811,482997,1103971,287,44.8,xce initiation tubercule,1,NA,68.22
+BF_mo_04,BF_mo_04_vine,bf,mo,4,Palé Dihebté,cal,D. alata,Flado/Américain,vine,vine,20150811,482997,1103971,287,44.8,xce initiation tubercule,1,NA,27.5
+BF_mo_04,BF_mo_04_soil_cal,bf,mo,4,Palé Dihebté,cal,D. alata,Flado/Américain,soil,soil_cal,20150811,482997,1103971,287,44.8,xce initiation tubercule,1,NA,
+BF_mo_04,BF_mo_04_soil_add,bf,mo,4,Palé Dihebté,add,D. alata,Flado/Américain,soil,soil_add,20150811,482997,1103971,287,44.8,xce initiation tubercule,1,NA,
+BF_mo_05,BF_mo_05_leaf,bf,mo,5,Hien Koumité,cal,D. rotundata,Pahinté,leaf,leaf,20150812,483094,1105728,349,20.8,xce initiation tubercule,1,NA,97.7
+BF_mo_05,BF_mo_05_vine,bf,mo,5,Hien Koumité,cal,D. rotundata,Pahinté,vine,vine,20150812,483094,1105728,349,20.8,xce initiation tubercule,1,NA,50.51
+BF_mo_05,BF_mo_05_tuber,bf,mo,5,Hien Koumité,cal,D. rotundata,Pahinté,tuber,tuber,20150812,483094,1105728,349,20.8,xce initiation tubercule,1,NA,7.9
+BF_mo_05,BF_mo_05_soil_cal,bf,mo,5,Hien Koumité,cal,D. rotundata,Pahinté,soil,soil_cal,20150812,483094,1105728,349,20.8,xce initiation tubercule,1,NA,
+BF_mo_05,BF_mo_05_soil_add,bf,mo,5,Hien Koumité,add,D. rotundata,Pahinté,soil,soil_add,20150812,483094,1105728,349,20.8,xce initiation tubercule,1,NA,
+BF_mo_06,BF_mo_06_leaf,bf,mo,6,Somé Enock,cal,D. alata,Flado/Américain,leaf,leaf,20150812,483232,1105572,309,27.1,xce initiation tubercule,1,NA,89.65
+BF_mo_06,BF_mo_06_vine,bf,mo,6,Somé Enock,cal,D. alata,Flado/Américain,vine,vine,20150812,483232,1105572,309,27.1,xce initiation tubercule,1,NA,30.84
+BF_mo_06,BF_mo_06_tuber,bf,mo,6,Somé Enock,cal,D. alata,Flado/Américain,tuber,tuber,20150812,483232,1105572,309,27.1,xce initiation tubercule,1,NA,1.59
+BF_mo_06,BF_mo_06_soil_cal,bf,mo,6,Somé Enock,cal,D. alata,Flado/Américain,soil,soil_cal,20150812,483232,1105572,309,27.1,xce initiation tubercule,1,NA,
+BF_mo_06,BF_mo_06_soil_add,bf,mo,6,Somé Enock,add,D. alata,Flado/Américain,soil,soil_add,20150812,483232,1105572,309,27.1,xce initiation tubercule,1,NA,
+BF_mo_07,BF_mo_07_leaf,bf,mo,7,Nabaloum Madi,cal,D. rotundata,Bona,leaf,leaf,20150812,486177,1103958,301,18.7,xce initiation tubercule,1,NA,101.03
+BF_mo_07,BF_mo_07_vine,bf,mo,7,Nabaloum Madi,cal,D. rotundata,Bona,vine,vine,20150812,486177,1103958,301,18.7,xce initiation tubercule,1,NA,68.84
+BF_mo_07,BF_mo_07_tuber,bf,mo,7,Nabaloum Madi,cal,D. rotundata,Bona,tuber,tuber,20150812,486177,1103958,301,18.7,xce initiation tubercule,1,NA,13.56
+BF_mo_07,BF_mo_07_soil_cal,bf,mo,7,Nabaloum Madi,cal,D. rotundata,Bona,soil,soil_cal,20150812,486177,1103958,301,18.7,xce initiation tubercule,1,NA,
+BF_mo_07,BF_mo_07_soil_add,bf,mo,7,Nabaloum Madi,add,D. rotundata,Bona,soil,soil_add,20150812,486177,1103958,301,18.7,xce initiation tubercule,1,NA,
+BF_mo_08,BF_mo_08_leaf,bf,mo,8,Dah Kouakilè,cal,D. rotundata,Pouna,leaf,leaf,20150812,485173,1102898,301,20,xce initiation tubercule,1,NA,72.47
+BF_mo_08,BF_mo_08_vine,bf,mo,8,Dah Kouakilè,cal,D. rotundata,Pouna,vine,vine,20150812,485173,1102898,301,20,xce initiation tubercule,1,NA,43.59
+BF_mo_08,BF_mo_08_soil_cal,bf,mo,8,Dah Kouakilè,cal,D. rotundata,Pouna,soil,soil_cal,20150812,485173,1102898,301,20,xce initiation tubercule,1,NA,
+BF_mo_08,BF_mo_08_soil_add,bf,mo,8,Dah Kouakilè,add,D. rotundata,Pouna,soil,soil_add,20150812,485173,1102898,301,20,xce initiation tubercule,1,NA,
+BF_mo_09,BF_mo_09_leaf,bf,mo,9,Kambiré Grégoire,cal,D. rotundata,Kona,leaf,leaf,20150812,483215,1105001,297,32.3,xce initiation tubercule,1,NA,48.5
+BF_mo_09,BF_mo_09_vine,bf,mo,9,Kambiré Grégoire,cal,D. rotundata,Kona,vine,vine,20150812,483215,1105001,297,32.3,xce initiation tubercule,1,NA,32.52
+BF_mo_09,BF_mo_09_soil_cal,bf,mo,9,Kambiré Grégoire,cal,D. rotundata,Kona,soil,soil_cal,20150812,483215,1105001,297,32.3,xce initiation tubercule,1,NA,
+BF_mo_09,BF_mo_09_soil_add,bf,mo,9,Kambiré Grégoire,add,D. rotundata,Kona,soil,soil_add,20150812,483215,1105001,297,32.3,xce initiation tubercule,1,NA,
+BF_mo_10,BF_mo_10_leaf,bf,mo,10,Kambiré Yoyité,cal,D. rotundata,Panité,leaf,leaf,20150812,477548,1101613,299,29.5,xce initiation tubercule,1,NA,86.41
+BF_mo_10,BF_mo_10_vine,bf,mo,10,Kambiré Yoyité,cal,D. rotundata,Panité,vine,vine,20150812,477548,1101613,299,29.5,xce initiation tubercule,1,NA,56.2
+BF_mo_10,BF_mo_10_tuber,bf,mo,10,Kambiré Yoyité,cal,D. rotundata,Panité,tuber,tuber,20150812,477548,1101613,299,29.5,xce initiation tubercule,1,NA,1.62
+BF_mo_10,BF_mo_10_soil_cal,bf,mo,10,Kambiré Yoyité,cal,D. rotundata,Panité,soil,soil_cal,20150812,477548,1101613,299,29.5,xce initiation tubercule,1,NA,
+BF_mo_10,BF_mo_10_soil_add,bf,mo,10,Kambiré Yoyité,add,D. rotundata,Panité,soil,soil_add,20150812,477548,1101613,299,29.5,xce initiation tubercule,1,NA,
+BF_mo_11,BF_mo_11_leaf,bf,mo,11,Dah Sieé Grégoire,cal,D. alata,Flado/Américain,leaf,leaf,20150812,475788,1104861,302,33.5,xce initiation tubercule,0,NA,146.87
+BF_mo_11,BF_mo_11_vine,bf,mo,11,Dah Sieé Grégoire,cal,D. alata,Flado/Américain,vine,vine,20150812,475788,1104861,302,33.5,xce initiation tubercule,0,NA,50.03
+BF_mo_11,BF_mo_11_tuber,bf,mo,11,Dah Sieé Grégoire,cal,D. alata,Flado/Américain,tuber,tuber,20150812,475788,1104861,302,33.5,xce initiation tubercule,0,NA,6.25
+BF_mo_11,BF_mo_11_soil_cal,bf,mo,11,Dah Sieé Grégoire,cal,D. alata,Flado/Américain,soil,soil_cal,20150812,475788,1104861,302,33.5,xce initiation tubercule,0,NA,
+BF_mo_11,BF_mo_11_soil_add,bf,mo,11,Dah Sieé Grégoire,add,D. alata,Flado/Américain,soil,soil_add,20150812,475788,1104861,302,33.5,xce initiation tubercule,0,NA,
+BF_mo_12,BF_mo_12_leaf,bf,mo,12,Dah Leprouté,cal,D. rotundata,,leaf,leaf,20150812,478880,1103929,289,18.4,xce initiation tubercule,1,NA,73.08
+BF_mo_12,BF_mo_12_vine,bf,mo,12,Dah Leprouté,cal,D. rotundata,,vine,vine,20150812,478880,1103929,289,18.4,xce initiation tubercule,1,NA,52.46
+BF_mo_12,BF_mo_12_tuber,bf,mo,12,Dah Leprouté,cal,D. rotundata,,tuber,tuber,20150812,478880,1103929,289,18.4,xce initiation tubercule,1,NA,6.56
+BF_mo_12,BF_mo_12_soil_cal,bf,mo,12,Dah Leprouté,cal,D. rotundata,,soil,soil_cal,20150812,478880,1103929,289,18.4,xce initiation tubercule,1,NA,
+BF_mo_12,BF_mo_12_soil_add,bf,mo,12,Dah Leprouté,add,D. rotundata,,soil,soil_add,20150812,478880,1103929,289,18.4,xce initiation tubercule,1,NA,
+BF_mo_13,BF_mo_13_leaf,bf,mo,13,Kambiré Koffi,cal,D. alata,Flado/Américain,leaf,leaf,20150813,478200,1101589,265,33.3,xce feuille,1,NA,98.35
+BF_mo_13,BF_mo_13_vine,bf,mo,13,Kambiré Koffi,cal,D. alata,Flado/Américain,vine,vine,20150813,478200,1101589,265,33.3,xce feuille,1,NA,40.47
+BF_mo_13,BF_mo_13_tuber,bf,mo,13,Kambiré Koffi,cal,D. alata,Flado/Américain,tuber,tuber,20150813,478200,1101589,265,33.3,xce feuille,1,NA,6.61
+BF_mo_13,BF_mo_13_soil_cal,bf,mo,13,Kambiré Koffi,cal,D. alata,Flado/Américain,soil,soil_cal,20150813,478200,1101589,265,33.3,xce feuille,1,NA,
+BF_mo_13,BF_mo_13_soil_add,bf,mo,13,Kambiré Koffi,add,D. alata,Flado/Américain,soil,soil_add,20150813,478200,1101589,265,33.3,xce feuille,1,NA,
+BF_mo_14,BF_mo_14_leaf,bf,mo,14,Kambiré Bèbè,cal,D. rotundata,Pahinté,leaf,leaf,20150813,477485,1101354,310,35.6,xce feuille,1,NA,58.63
+BF_mo_14,BF_mo_14_vine,bf,mo,14,Kambiré Bèbè,cal,D. rotundata,Pahinté,vine,vine,20150813,477485,1101354,310,35.6,xce feuille,1,NA,36.25
+BF_mo_14,BF_mo_14_soil_cal,bf,mo,14,Kambiré Bèbè,cal,D. rotundata,Pahinté,soil,soil_cal,20150813,477485,1101354,310,35.6,xce feuille,1,NA,
+BF_mo_14,BF_mo_14_soil_add,bf,mo,14,Kambiré Bèbè,add,D. rotundata,Pahinté,soil,soil_add,20150813,477485,1101354,310,35.6,xce feuille,1,NA,
+BF_mo_15,BF_mo_15_leaf,bf,mo,15,Hien Lamité,cal,D. alata,Flado/Américain,leaf,leaf,20150813,476998,1101821,299,29.3,xce feuille,1,NA,148.79
+BF_mo_15,BF_mo_15_vine,bf,mo,15,Hien Lamité,cal,D. alata,Flado/Américain,vine,vine,20150813,476998,1101821,299,29.3,xce feuille,1,NA,54.19
+BF_mo_15,BF_mo_15_soil_cal,bf,mo,15,Hien Lamité,cal,D. alata,Flado/Américain,soil,soil_cal,20150813,476998,1101821,299,29.3,xce feuille,1,NA,
+BF_mo_15,BF_mo_15_soil_add,bf,mo,15,Hien Lamité,add,D. alata,Flado/Américain,soil,soil_add,20150813,476998,1101821,299,29.3,xce feuille,1,NA,
+BF_mo_16,BF_mo_16_leaf,bf,mo,16,Kambiré Olo Dédouane,cal,D. alata,Flado/Américain,leaf,leaf,20150813,475679,1099021,287,25.2,xce feuille,1,NA,187.73
+BF_mo_16,BF_mo_16_vine,bf,mo,16,Kambiré Olo Dédouane,cal,D. alata,Flado/Américain,vine,vine,20150813,475679,1099021,287,25.2,xce feuille,1,NA,62.5
+BF_mo_16,BF_mo_16_soil_cal,bf,mo,16,Kambiré Olo Dédouane,cal,D. alata,Flado/Américain,soil,soil_cal,20150813,475679,1099021,287,25.2,xce feuille,1,NA,
+BF_mo_16,BF_mo_16_soil_add,bf,mo,16,Kambiré Olo Dédouane,add,D. alata,Flado/Américain,soil,soil_add,20150813,475679,1099021,287,25.2,xce feuille,1,NA,
+BF_mo_17,BF_mo_17_leaf,bf,mo,17,Hien Warmoné,cal,D. rotundata,Pahinté,leaf,leaf,20150813,474920,1102517,309,19.9,xce initiation tubercule,0,NA,83.7
+BF_mo_17,BF_mo_17_vine,bf,mo,17,Hien Warmoné,cal,D. rotundata,Pahinté,vine,vine,20150813,474920,1102517,309,19.9,xce initiation tubercule,0,NA,55.7
+BF_mo_17,BF_mo_17_soil_cal,bf,mo,17,Hien Warmoné,cal,D. rotundata,Pahinté,soil,soil_cal,20150813,474920,1102517,309,19.9,xce initiation tubercule,0,NA,
+BF_mo_17,BF_mo_17_soil_add,bf,mo,17,Hien Warmoné,add,D. rotundata,Pahinté,soil,soil_add,20150813,474920,1102517,309,19.9,xce initiation tubercule,0,NA,
+BF_mo_18,BF_mo_18_leaf,bf,mo,18,Hien Koumdepté,cal,D. alata,Flado/Américain,leaf,leaf,20150813,477222,1103093,302,30.6,xce initiation tubercule,1,NA,106.9
+BF_mo_18,BF_mo_18_vine,bf,mo,18,Hien Koumdepté,cal,D. alata,Flado/Américain,vine,vine,20150813,477222,1103093,302,30.6,xce initiation tubercule,1,NA,43.62
+BF_mo_18,BF_mo_18_soil_cal,bf,mo,18,Hien Koumdepté,cal,D. alata,Flado/Américain,soil,soil_cal,20150813,477222,1103093,302,30.6,xce initiation tubercule,1,NA,
+BF_mo_18,BF_mo_18_soil_add,bf,mo,18,Hien Koumdepté,add,D. alata,Flado/Américain,soil,soil_add,20150813,477222,1103093,302,30.6,xce initiation tubercule,1,NA,
+BF_mo_19,BF_mo_19_leaf,bf,mo,19,Hien Tilgaté,cal,D. rotundata,Pahinté,leaf,leaf,20150813,479176,1104653,293,30.7,xce initiation tubercule,0,NA,82.95
+BF_mo_19,BF_mo_19_vine,bf,mo,19,Hien Tilgaté,cal,D. rotundata,Pahinté,vine,vine,20150813,479176,1104653,293,30.7,xce initiation tubercule,0,NA,55.89
+BF_mo_19,BF_mo_19_tuber,bf,mo,19,Hien Tilgaté,cal,D. rotundata,Pahinté,tuber,tuber,20150813,479176,1104653,293,30.7,xce initiation tubercule,0,NA,18.97
+BF_mo_19,BF_mo_19_soil_cal,bf,mo,19,Hien Tilgaté,cal,D. rotundata,Pahinté,soil,soil_cal,20150813,479176,1104653,293,30.7,xce initiation tubercule,0,NA,
+BF_mo_19,BF_mo_19_soil_add,bf,mo,19,Hien Tilgaté,add,D. rotundata,Pahinté,soil,soil_add,20150813,479176,1104653,293,30.7,xce initiation tubercule,0,NA,
+BF_mo_20,BF_mo_20_leaf,bf,mo,20,Da Departé,cal,D. rotundata,Pahinté,leaf,leaf,20150813,479160,1103940,295,21.6,xce initiation tubercule,1,NA,66.49
+BF_mo_20,BF_mo_20_vine,bf,mo,20,Da Departé,cal,D. rotundata,Pahinté,vine,vine,20150813,479160,1103940,295,21.6,xce initiation tubercule,1,NA,38.48
+BF_mo_20,BF_mo_20_tuber,bf,mo,20,Da Departé,cal,D. rotundata,Pahinté,tuber,tuber,20150813,479160,1103940,295,21.6,xce initiation tubercule,1,NA,6.15
+BF_mo_20,BF_mo_20_soil_cal,bf,mo,20,Da Departé,cal,D. rotundata,Pahinté,soil,soil_cal,20150813,479160,1103940,295,21.6,xce initiation tubercule,1,NA,
+BF_mo_20,BF_mo_20_soil_add,bf,mo,20,Da Departé,add,D. rotundata,Pahinté,soil,soil_add,20150813,479160,1103940,295,21.6,xce initiation tubercule,1,NA,
+BF_mo_01,BF_mo_01_tuber_x1,bf,mo,x1,Market Gaoua,cal,D. alata,,tuber,tuber,20150815,,,,,,,,70.27
+BF_mo_02,BF_mo_02_tuber_x2,bf,mo,x2,Market Gaoua,cal,D. alata,,tuber,tuber,20150816,,,,,,,,62.74
+BF_mo_03,BF_mo_03_tuber_x3,bf,mo,x3,Market Gaoua,cal,D. alata,,tuber,tuber,20150817,,,,,,,,66.19
+BF_mo_04,BF_mo_04_tuber_x4,bf,mo,x4,Market Gaoua,cal,D. alata,,tuber,tuber,20150818,,,,,,,,56.48
+BF_mo_05,BF_mo_05_tuber_x5,bf,mo,x5,Market Gaoua,cal,D. alata,,tuber,tuber,20150819,,,,,,,,66.85
+BF_mo_06,BF_mo_06_tuber_x6,bf,mo,x6,Market Gaoua,cal,D. alata,,tuber,tuber,20150820,,,,,,,,51.56
+BF_mo_07,BF_mo_07_tuber_x7,bf,mo,x7,Market Gaoua,cal,D. alata,,tuber,tuber,20150821,,,,,,,,68.57
+BF_mo_08,BF_mo_08_tuber_x8,bf,mo,x8,Market Gaoua,cal,D. alata,,tuber,tuber,20150822,,,,,,,,83.13
+BF_mo_09,BF_mo_09_tuber_x9,bf,mo,x9,Market Gaoua,cal,D. rotundata,,tuber,tuber,20150823,,,,,,,,65.15
+BF_mo_10,BF_mo_10_tuber_x10,bf,mo,x10,Market Gaoua,cal,D. rotundata,,tuber,tuber,20150824,,,,,,,,72.32
+BF_mo_11,BF_mo_11_tuber_x11,bf,mo,x11,Market Gaoua,cal,D. rotundata,,tuber,tuber,20150825,,,,,,,,77.01
+BF_mo_12,BF_mo_12_tuber_x12,bf,mo,x12,Market Gaoua,cal,D. rotundata,,tuber,tuber,20150826,,,,,,,,69.8
+BF_mo_13,BF_mo_13_tuber_x13,bf,mo,x13,Market Gaoua,cal,D. rotundata,,tuber,tuber,20150827,,,,,,,,69.2

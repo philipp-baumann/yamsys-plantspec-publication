@@ -1,0 +1,105 @@
+field_ID,sample_ID,country,site,farmer_no,farmer_name,type,species,variety,material,mat_type,date,gps_long,gps_lat,alt,spad,stade,tuteurage,comment,dw_total
+CI_tb_01,CI_tb_01_leaf,ci,tb,1,Silué Bakary Wayrala,cal,D. alata,Bètè bètè,leaf,leaf,20140704,0197156,0900498,310,30.0,xce feuille,0,,21.77
+CI_tb_01,CI_tb_01_vine,ci,tb,1,Silué Bakary Wayrala,cal,D. alata,Bètè bètè,vine,vine ,20140704,0197156,0900498,310,30.0,xce feuille,0,,11.26
+CI_tb_01,CI_tb_01_soil_cal,ci,tb,1,Silué Bakary Wayrala,cal,D. alata,Bètè bètè,soil,soil_cal,20140704,0197156,0900498,310,30.0,xce feuille,0,,
+CI_tb_01,CI_tb_01_soil_add,ci,tb,1,Silué Bakary Wayrala,add,D. alata,Bètè bètè,soil,soil_add,20140704,0197156,0900498,310,30.0,xce feuille,0,,
+CI_tb_02a,CI_tb_02a_leaf,ci,tb,2,Kamagaté Famo,cal,D. alata,Bètè bètè,leaf,leaf,20140705,0198860,0899785,334,28.1,xce feuille,0,,14.22
+CI_tb_02a,CI_tb_02a_vine,ci,tb,2,Kamagaté Famo,cal,D. alata,Bètè bètè,vine,vine ,20140705,0198860,0899785,334,28.1,xce feuille,0,,11.01
+CI_tb_02,CI_tb_02_tuber,ci,tb,2,Kamagaté Famo,cal,D. alata,Bètè bètè,tuber,tuber,20140705,0198860,0899785,334,28.1,xce feuille,0,,75.9
+CI_tb_02a,CI_tb_02a_soil_add,ci,tb,2,Kamagaté Famo,add,D. alata,Bètè bètè,soil,soil_add,20140705,0198860,0899785,334,28.1,xce feuille,0,,
+CI_tb_02b,CI_tb_02b_leaf,ci,tb,2,Kamagaté Famo,cal,D. alata,Bètè bètè,leaf,leaf,20140705,0198860,0899785,334,37.4,xce feuille,1,,
+CI_tb_02b,CI_tb_02b_vine,ci,tb,2,Kamagaté Famo,cal,D. alata,Bètè bètè,vine,vine ,20140705,0198860,0899785,334,37.4,xce feuille,1,,47.57
+CI_tb_02b,CI_tb_02_soil_cal,ci,tb,2,Kamagaté Famo,cal,D. alata,Bètè bètè,soil,soil_cal,20140705,0198860,0899785,334,37.4,xce feuille,1,,
+CI_tb_02b,CI_tb_02b_soil_add,ci,tb,2,Kamagaté Famo,add,D. alata,Bètè bètè,soil,soil_add,20140705,0198860,0899785,334,37.4,xce feuille,1,,
+CI_tb_03,CI_tb_03_leaf,ci,tb,3,Yéo Siélé,cal,D. rotundata,Krenglè,leaf,leaf,20140705,0199878,0898651,302,52.6,xce feuille,0,,40.47
+CI_tb_03,CI_tb_03_vine,ci,tb,3,Yéo Siélé,cal,D. rotundata,Krenglè,vine,vine ,20140705,0199878,0898651,302,52.6,xce feuille,0,,32.25
+CI_tb_03,CI_tb_03_tuber,ci,tb,3,Yéo Siélé,cal,D. rotundata,Krenglè,tuber,tuber,20140705,0199878,0898651,302,52.6,xce feuille,0,,42.7
+CI_tb_03,CI_tb_03_soil_cal,ci,tb,3,Yéo Siélé,cal,D. rotundata,Krenglè,soil,soil_cal,20140705,0199878,0898651,302,52.6,xce feuille,0,,
+CI_tb_03,CI_tb_03_soil_add,ci,tb,3,Yéo Siélé,add,D. rotundata,Krenglè,soil,soil_add,20140705,0199878,0898651,302,52.6,xce feuille,0,,
+CI_tb_04,CI_tb_04_leaf,ci,tb,4,Fofana Kouamé,cal,D. alata,Bètè bètè,leaf,leaf,20140706,0202234,0889230,311,39.2,xce feuille,0,,64.04
+CI_tb_04,CI_tb_04_vine,ci,tb,4,Fofana Kouamé,cal,D. alata,Bètè bètè,vine,vine ,20140706,0202234,0889230,311,39.2,xce feuille,0,,24.5
+CI_tb_04,CI_tb_04a_tuber,ci,tb,4,Fofana Kouamé,cal,D. alata,Bètè bètè,tuber,tuber,20140706,0202234,0889230,311,39.2,xce feuille,0,,50.52
+CI_tb_04,CI_tb_04b_tuber,ci,tb,4,Fofana Kouamé,cal,D. alata,Bètè bètè,tuber,tuber,20140706,0202234,0889230,311,39.2,xce feuille,0,,62.66
+CI_tb_04,CI_tb_04_soil_cal,ci,tb,4,Fofana Kouamé,cal,D. alata,Bètè bètè,soil,soil_cal,20140706,0202234,0889230,311,39.2,xce feuille,0,,
+CI_tb_04,CI_tb_04_soil_add,ci,tb,4,Fofana Kouamé,add,D. alata,Bètè bètè,soil,soil_add,20140706,0202234,0889230,311,39.2,xce feuille,0,,
+CI_tb_05,CI_tb_05_leaf,ci,tb,5,Fofana Kouamé,cal,D. rotundata,Krenglè,leaf,leaf,20140706,0200435,0889344,326,39.8,xce initiation tubercule,0,virus,
+CI_tb_05,CI_tb_05_vine,ci,tb,5,Fofana Kouamé,cal,D. rotundata,Krenglè,vine,vine ,20140706,0200435,0889344,326,39.8,xce initiation tubercule,0,virus,68.77
+CI_tb_05,CI_tb_05_soil_cal,ci,tb,5,Fofana Kouamé,cal,D. rotundata,Krenglè,soil,soil_cal,20140706,0200435,0889344,326,39.8,xce initiation tubercule,0,virus,
+CI_tb_05,CI_tb_05_soil_add,ci,tb,5,Fofana Kouamé,add,D. rotundata,Krenglè,soil,soil_add,20140706,0200435,0889344,326,39.8,xce initiation tubercule,0,virus,
+CI_tb_06,CI_tb_06_leaf,ci,tb,6,Sekongo Kolo,cal,D. rotundata,Krenglè,leaf,leaf,20140707,0198125,0892508,299,48.8,xce feuille,0,,23.66
+CI_tb_06,CI_tb_06_vine,ci,tb,6,Sekongo Kolo,cal,D. rotundata,Krenglè,vine,vine ,20140707,0198125,0892508,299,48.8,xce feuille,0,,24.42
+CI_tb_06,CI_tb_06_soil_cal,ci,tb,6,Sekongo Kolo,cal,D. rotundata,Krenglè,soil,soil_cal,20140707,0198125,0892508,299,48.8,xce feuille,0,,
+CI_tb_06,CI_tb_06_soil_add,ci,tb,6,Sekongo Kolo,add,D. rotundata,Krenglè,soil,soil_add,20140707,0198125,0892508,299,48.8,xce feuille,0,,
+CI_tb_07,CI_tb_07_leaf,ci,tb,7,Konkobo Soumaïla,cal,D. rotundata,Djiminikou/koudjan,leaf,leaf,20140707,0206496,0892394,314,53.9,xce feuille,1,,73.12
+CI_tb_07,CI_tb_07_vine,ci,tb,7,Konkobo Soumaïla,cal,D. rotundata,Djiminikou/koudjan,vine,vine ,20140707,0206496,0892394,314,53.9,xce feuille,1,,64.84
+CI_tb_07,CI_tb_07_soil_cal,ci,tb,7,Konkobo Soumaïla,cal,D. rotundata,Djiminikou/koudjan,soil,soil_cal,20140707,0206496,0892394,314,53.9,xce feuille,1,,
+CI_tb_07,CI_tb_07_soil_add,ci,tb,7,Konkobo Soumaïla,add,D. rotundata,Djiminikou/koudjan,soil,soil_add,20140707,0206496,0892394,314,53.9,xce feuille,1,,
+CI_tb_08,CI_tb_08_leaf,ci,tb,8,Konkobo Denis,cal,D. rotundata,Djiminikou/koudjan,leaf,leaf,20140707,0205539,0894413,319,37.7,xce initiation tubercule,1,,119.83
+CI_tb_08,CI_tb_08_vine,ci,tb,8,Konkobo Denis,cal,D. rotundata,Djiminikou/koudjan,vine,vine ,20140707,0205539,0894413,319,37.7,xce initiation tubercule,1,,92.59
+CI_tb_08,CI_tb_08_soil_cal,ci,tb,8,Konkobo Denis,cal,D. rotundata,Djiminikou/koudjan,soil,soil_cal,20140707,0205539,0894413,319,37.7,xce initiation tubercule,1,,
+CI_tb_08,CI_tb_08_soil_add,ci,tb,8,Konkobo Denis,add,D. rotundata,Djiminikou/koudjan,soil,soil_add,20140707,0205539,0894413,319,37.7,xce initiation tubercule,1,,
+CI_tb_09,CI_tb_09_leaf,ci,tb,9,Kourawogo Marcel,cal,D. rotundata,Djiminikou/koudjan,leaf,leaf,20140707,0206234,0898456,310,46.0,xce initiation tubercule,1,,106.28
+CI_tb_09,CI_tb_09_vine,ci,tb,9,Kourawogo Marcel,cal,D. rotundata,Djiminikou/koudjan,vine,vine ,20140707,0206234,0898456,310,46.0,xce initiation tubercule,1,,120.75
+CI_tb_09,CI_tb_09_tuber,ci,tb,9,Kourawogo Marcel,cal,D. rotundata,Djiminikou/koudjan,tuber,tuber,20140707,0206234,0898456,310,46.0,xce initiation tubercule,1,,92.05
+CI_tb_09,CI_tb_09_soil_cal,ci,tb,9,Kourawogo Marcel,cal,D. rotundata,Djiminikou/koudjan,soil,soil_cal,20140707,0206234,0898456,310,46.0,xce initiation tubercule,1,,
+CI_tb_09,CI_tb_09_soil_add,ci,tb,9,Kourawogo Marcel,add,D. rotundata,Djiminikou/koudjan,soil,soil_add,20140707,0206234,0898456,310,46.0,xce initiation tubercule,1,,
+CI_tb_10,CI_tb_10_leaf,ci,tb,10,Wango Daniel,cal,D. alata,Cameroun,leaf,leaf,20140708,0195298,0896550,291,33.6,xce feuille,0,,31.88
+CI_tb_10,CI_tb_10_vine,ci,tb,10,Wango Daniel,cal,D. alata,Cameroun,vine,vine ,20140708,0195298,0896550,291,33.6,xce feuille,0,,12.08
+CI_tb_10,CI_tb_10_tuber,ci,tb,10,Wango Daniel,cal,D. alata,Cameroun,tuber,tuber,20140708,0195298,0896550,291,33.6,xce feuille,0,,13.76
+CI_tb_10,CI_tb_10_soil_cal,ci,tb,10,Wango Daniel,cal,D. alata,Cameroun,soil,soil_cal,20140708,0195298,0896550,291,33.6,xce feuille,0,,
+CI_tb_10,CI_tb_10_soil_add,ci,tb,10,Wango Daniel,add,D. alata,Cameroun,soil,soil_add,20140708,0195298,0896550,291,33.6,xce feuille,0,,
+CI_tb_11,CI_tb_11_leaf,ci,tb,11,Kandé Badjiné,cal,D. rotundata,Krenglè,leaf,leaf,20140709,0195513,0895684,297,27.1,xce feuille,1,virus,55.73
+CI_tb_11,CI_tb_11_vine,ci,tb,11,Kandé Badjiné,cal,D. rotundata,Krenglè,vine,vine ,20140709,0195513,0895684,297,27.1,xce feuille,1,virus,50.85
+CI_tb_11,CI_tb_11_soil,ci,tb,11,Kandé Badjiné,cal,D. rotundata,Krenglè,soil,soil_cal,20140709,0195513,0895684,297,27.1,xce feuille,1,virus,
+CI_tb_11,CI_tb_11_soil_cal,ci,tb,11,Kandé Badjiné,add,D. rotundata,Krenglè,soil,soil_add,20140709,0195513,0895684,297,27.1,xce feuille,1,virus,
+CI_tb_12,CI_tb_12_leaf,ci,tb,12,Ladji Fongbé,cal,D. rotundata,Djiminikou/koudjan,leaf,leaf,20140709,0194740,0893319,283,39.6,xce initiation tubercule,1,,235.63
+CI_tb_12,CI_tb_12_vine,ci,tb,12,Ladji Fongbé,cal,D. rotundata,Djiminikou/koudjan,vine,vine ,20140709,0194740,0893319,283,39.6,xce initiation tubercule,1,,162.66
+CI_tb_12,CI_tb_12_soil_cal,ci,tb,12,Ladji Fongbé,cal,D. rotundata,Djiminikou/koudjan,soil,soil_cal,20140709,0194740,0893319,283,39.6,xce initiation tubercule,1,,
+CI_tb_12,CI_tb_12_soil_add,ci,tb,12,Ladji Fongbé,add,D. rotundata,Djiminikou/koudjan,soil,soil_add,20140709,0194740,0893319,283,39.6,xce initiation tubercule,1,,
+CI_tb_13,CI_tb_13_leaf,ci,tb,13,Kamagaté Bassegnogo,cal,D. alata,Bètè bètè,leaf,leaf,20140709,0197796,0891508,313,34.2,xce initiation tubercule,0,,53.63
+CI_tb_13,CI_tb_13_vine,ci,tb,13,Kamagaté Bassegnogo,cal,D. alata,Bètè bètè,vine,vine ,20140709,0197796,0891508,313,34.2,xce initiation tubercule,0,,25.74
+CI_tb_13,CI_tb_13_tuber,ci,tb,13,Kamagaté Bassegnogo,cal,D. alata,Bètè bètè,tuber,tuber,20140709,0197796,0891508,313,34.2,xce initiation tubercule,0,,106.77
+CI_tb_13,CI_tb_13_soil_cal,ci,tb,13,Kamagaté Bassegnogo,cal,D. alata,Bètè bètè,soil,soil_cal,20140709,0197796,0891508,313,34.2,xce initiation tubercule,0,,
+CI_tb_13,CI_tb_13_soil_add,ci,tb,13,Kamagaté Bassegnogo,add,D. alata,Bètè bètè,soil,soil_add,20140709,0197796,0891508,313,34.2,xce initiation tubercule,0,,
+CI_tb_14,CI_tb_14_leaf,ci,tb,14,Kpéléfolo Tuo,cal,D. rotundata,Krenglè,leaf,leaf,20140711,0201157,0899091,319,36.9,xce feuille,0,virus,53.56
+CI_tb_14,CI_tb_14_vine,ci,tb,14,Kpéléfolo Tuo,cal,D. rotundata,Krenglè,vine,vine ,20140711,0201157,0899091,319,36.9,xce feuille,0,virus,50.53
+CI_tb_14,CI_tb_14_soil_cal,ci,tb,14,Kpéléfolo Tuo,cal,D. rotundata,Krenglè,soil,soil_cal,20140711,0201157,0899091,319,36.9,xce feuille,0,virus,
+CI_tb_14,CI_tb_14_soil_add,ci,tb,14,Kpéléfolo Tuo,add,D. rotundata,Krenglè,soil,soil_add,20140711,0201157,0899091,319,36.9,xce feuille,0,virus,
+CI_tb_15,CI_tb_15_leaf,ci,tb,15,Yéo Wologo,cal,D. rotundata,Krenglè,leaf,leaf,20140711,0202295,0891321,312,52.3,xce feuille,0,,47.08
+CI_tb_15,CI_tb_15_vine,ci,tb,15,Yéo Wologo,cal,D. rotundata,Krenglè,vine,vine ,20140711,0202295,0891321,312,52.3,xce feuille,0,,33.36
+CI_tb_15,CI_tb_15_soil_cal,ci,tb,15,Yéo Wologo,cal,D. rotundata,Krenglè,soil,soil_cal,20140711,0202295,0891321,312,52.3,xce feuille,0,,
+CI_tb_15,CI_tb_15_soil_add,ci,tb,15,Yéo Wologo,add,D. rotundata,Krenglè,soil,soil_add,20140711,0202295,0891321,312,52.3,xce feuille,0,,
+CI_tb_16,CI_tb_16_leaf,ci,tb,16,Soro Beh,cal,D. alata,Bètè bètè,leaf,leaf,20140711,0202855,0891184,302,36.0,xce feuille,0,,39.52
+CI_tb_16,CI_tb_16_vine,ci,tb,16,Soro Beh,cal,D. alata,Bètè bètè,vine,vine ,20140711,0202855,0891184,302,36.0,xce feuille,0,,17.26
+CI_tb_16,CI_tb_16_tuber,ci,tb,16,Soro Beh,cal,D. alata,Bètè bètè,tuber,tuber,20140711,0202855,0891184,302,36.0,xce feuille,0,,36.25
+CI_tb_16,CI_tb_16_soil_cal,ci,tb,16,Soro Beh,cal,D. alata,Bètè bètè,soil,soil_cal,20140711,0202855,0891184,302,36.0,xce feuille,0,,
+CI_tb_16,CI_tb_16_soil_add,ci,tb,16,Soro Beh,add,D. alata,Bètè bètè,soil,soil_add,20140711,0202855,0891184,302,36.0,xce feuille,0,,
+CI_tb_17,CI_tb_17_leaf,ci,tb,17,Kamagaté Amadou,cal,D. alata,Bètè bètè,leaf,leaf,20140711,0202903,0891511,313,27.2,xce feuille,0,,33.07
+CI_tb_17,CI_tb_17_vine,ci,tb,17,Kamagaté Amadou,cal,D. alata,Bètè bètè,vine,vine ,20140711,0202903,0891511,313,27.2,xce feuille,0,,22.43
+CI_tb_17,CI_tb_17_tuber,ci,tb,17,Kamagaté Amadou,cal,D. alata,Bètè bètè,tuber,tuber,20140711,0202903,0891511,313,27.2,xce feuille,0,,
+CI_tb_17,CI_tb_17_soil_cal,ci,tb,17,Kamagaté Amadou,cal,D. alata,Bètè bètè,soil,soil_cal,20140711,0202903,0891511,313,27.2,xce feuille,0,,
+CI_tb_17,CI_tb_17_soil_add,ci,tb,17,Kamagaté Amadou,add,D. alata,Bètè bètè,soil,soil_add,20140711,0202903,0891511,313,27.2,xce feuille,0,,
+CI_tb_18,CI_tb_18_leaf,ci,tb,18,Bamba Bacongbé,cal,D. alata,Bètè bètè,leaf,leaf,20140713,0207972,0898455,321,29.9,xce initiation tubercule,0,,77.1
+CI_tb_18,CI_tb_18_vine,ci,tb,18,Bamba Bacongbé,cal,D. alata,Bètè bètè,vine,vine ,20140713,0207972,0898455,321,29.9,xce initiation tubercule,0,,74.86
+CI_tb_18,CI_tb_18_tuber,ci,tb,18,Bamba Bacongbé,cal,D. alata,Bètè bètè,tuber,tuber,20140713,0207972,0898455,321,29.9,xce initiation tubercule,0,,111.3
+CI_tb_18,CI_tb_18_soil_cal,ci,tb,18,Bamba Bacongbé,cal,D. alata,Bètè bètè,soil,soil_cal,20140713,0207972,0898455,321,29.9,xce initiation tubercule,0,,
+CI_tb_18,CI_tb_18_soil_add,ci,tb,18,Bamba Bacongbé,add,D. alata,Bètè bètè,soil,soil_add,20140713,0207972,0898455,321,29.9,xce initiation tubercule,0,,
+CI_tb_19,CI_tb_19_leaf,ci,tb,19,Kamagaté Hamadou,cal,D. alata,Bètè bètè,leaf,leaf,20140713,0204168,0894509,348,46.0,xce feuille,0,,38.95
+CI_tb_19,CI_tb_19_vine,ci,tb,19,Kamagaté Hamadou,cal,D. alata,Bètè bètè,vine,vine ,20140713,0204168,0894509,348,46.0,xce feuille,0,,20.25
+CI_tb_19,CI_tb_19_tuber,ci,tb,19,Kamagaté Hamadou,cal,D. alata,Bètè bètè,tuber,tuber,20140713,0204168,0894509,348,46.0,xce feuille,0,,69.12
+CI_tb_19,CI_tb_19_soil_cal,ci,tb,19,Kamagaté Hamadou,cal,D. alata,Bètè bètè,soil,soil_cal,20140713,0204168,0894509,348,46.0,xce feuille,0,,
+CI_tb_19,CI_tb_19_soil_add,ci,tb,19,Kamagaté Hamadou,add,D. alata,Bètè bètè,soil,soil_add,20140713,0204168,0894509,348,46.0,xce feuille,0,,
+CI_tb_20,CI_tb_20_leaf,ci,tb,20,Yéo Golor,cal,D. alata,Bètè bètè,leaf,leaf,20140713,0203349,0896536,351,32.8,xce feuille,0,,55.44
+CI_tb_20,CI_tb_20_vine,ci,tb,20,Yéo Golor,cal,D. alata,Bètè bètè,vine,vine ,20140713,0203349,0896536,351,32.8,xce feuille,0,,24.54
+CI_tb_20,CI_tb_20_tuber,ci,tb,20,Yéo Golor,cal,D. alata,Bètè bètè,tuber,tuber,20140713,0203349,0896536,351,32.8,xce feuille,0,,58.21
+CI_tb_20,CI_tb_20_soil_cal,ci,tb,20,Yéo Golor,cal,D. alata,Bètè bètè,soil,soil_cal,20140713,0203349,0896536,351,32.8,xce feuille,0,,
+CI_tb_20,CI_tb_20_soil_add,ci,tb,20,Yéo Golor,add,D. alata,Bètè bètè,soil,soil_add,20140713,0203349,0896536,351,32.8,xce feuille,0,,
+CI_tb_01,CI_tb_01_tuber_x1,ci,tb,x1,Market Bouaké,cal,D. rotundata,,tuber,tuber,,,,,,,,Origin: West of Ivory Coast,43.46
+CI_tb_05,CI_tb_05_tuber_x2,ci,tb,x2,Market Bouaké,cal,D. rotundata,,tuber,tuber,,,,,,,,Origin: West of Ivory Coast,64.13
+CI_tb_06,CI_tb_06_tuber_x3,ci,tb,x3,Market Bouaké,cal,D. rotundata,,tuber,tuber,,,,,,,,Origin: West of Ivory Coast,51.89
+CI_tb_07,CI_tb_07_tuber_x4,ci,tb,x4,Market Bouaké,cal,D. rotundata,,tuber,tuber,,,,,,,,Origin: West of Ivory Coast,47.29
+CI_tb_08,CI_tb_08_tuber_x5,ci,tb,x5,Market Bouaké,cal,D. rotundata,,tuber,tuber,,,,,,,,Origin: West of Ivory Coast,45.34
+CI_tb_11,CI_tb_11_tuber_x6,ci,tb,x6,Market Bouaké,cal,D. rotundata,,tuber,tuber,,,,,,,,Origin: West of Ivory Coast,66.15
+CI_tb_12,CI_tb_12_tuber_x7,ci,tb,x7,Market Bouaké,cal,D. rotundata,,tuber,tuber,,,,,,,,Origin: West of Ivory Coast,49.26
+CI_tb_14,CI_tb_14_tuber_x8,ci,tb,x8,Market Bouaké,cal,D. rotundata,,tuber,tuber,,,,,,,,Origin: West of Ivory Coast,55.56
+CI_tb_15,CI_tb_15_tuber_x9,ci,tb,x9,Market Bouaké,cal,D. rotundata,,tuber,tuber,,,,,,,,Origin: West of Ivory Coast,47.45
