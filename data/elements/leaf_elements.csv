@@ -1,4 +1,4 @@
-"","sample_ID","country","site","material","farmer_name","species","variety","C","N","S","Ca","K","Mg","P","Na","Mn","Zn","Cu","Fe"
+"row_number","sample_ID","country","site","material","farmer_name","species","variety","C","N","S","Ca","K","Mg","P","Na","Mn","Zn","Cu","Fe"
 "1","CI_sb_01_leaf","CI","sb","leaf","Angoua Albert","D. rotundata","Krenglé",420.469,27.4066666666667,2.572,24633.3333333333,28666.6666666667,4146.66666666667,2216.66666666667,1923.33333333333,316,23.5,10.0566666666667,463
 "2","CI_sb_02_leaf","CI","sb","leaf","Assé Kla","D. alata","Bètè bètè",393.95,36.49,3.724,15900,40300,7940,4210,2840,308,52.9,13.8,1240
 "3","CI_sb_03a_leaf","CI","sb","leaf","Yao N'Guessan Sévérin","D. rotundata","Bondoukou",353.387,36.44,3.905,25800,61800,6220,2060,2570,166,39.3,23,3720
