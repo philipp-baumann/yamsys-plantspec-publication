@@ -1,4 +1,4 @@
-"row_number","sample_ID","country","site","material","farmer_name","species","variety","C","N","S","K","Mg","P","Ca","Al","Na","Fe","Zn","Cu"
+"row_number","sample_id","country","site","material","farmer_name","species","variety","C","N","S","K","Mg","P","Ca","Al","Na","Fe","Zn","Cu"
 "1","CI_tb_01_tuber_x1","CI","tb","tuber","Market Bouaké","D. rotundata","",402.888,10.079,0.876666666666667,6563.66666666667,NA,1106.66666666667,240.666666666667,453.333333333333,1064,33.6666666666667,17.6666666666667,10.2966666666667
 "2","CI_tb_02_tuber","CI","tb","tuber","Kamagaté Famo","D. alata","Bètè bètè",391.344,10.837,0.942,15100,675,2130,296,485,1220,25.3,7.97,4.5
 "3","CI_tb_03_tuber","CI","tb","tuber","Yéo Siélé","D. rotundata","Krenglè",394.732,10.74,0.716,14500,638,2150,321,440,1350,17,7.96,4.9
