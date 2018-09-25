@@ -16,9 +16,11 @@
 pkgs <- c("tidyverse", "simplerspec")
 lapply(pkgs, library, character.only = TRUE)
 
+
 ## Load all plant element data =================================================
 
+elements_yam_leaf <- read_csv("data/training/elements/leaf_elements.csv")
+elements_yam_tuber  <- read_csv("data/training/elements/tuber_elements.csv")
 
-elements_yam_leaf <- read_csv("data/elements/leaf_elements.csv")
-elements_yam_tuber  <- read_csv("data/elements/tuber_elements.csv")
+
 
