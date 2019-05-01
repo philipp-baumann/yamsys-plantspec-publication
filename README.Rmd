@@ -1,4 +1,4 @@
 ---
-title: "Mid-infrared spectroscopy to estimate Yam (*Diascorea* sp.) mineral nutrients"
+title: "Mid-infrared spectroscopy to diagnose Yam (*Diascorea* sp.) mineral nutrients"
 output: rmarkdown::github_document
 ---
