@@ -1,4 +1,4 @@
-Mid-infrared spectroscopy to estimate Yam (*Diascorea* sp.) mineral nutrients
+Mid-infrared spectroscopy to diagnose Yam (*Diascorea* sp.) mineral nutrients
 ================
 
 
