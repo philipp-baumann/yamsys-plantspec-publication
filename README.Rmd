@@ -2,3 +2,13 @@
 title: "Mid-infrared spectroscopy to diagnose Yam (*Diascorea* sp.) mineral nutrients"
 output: rmarkdown::github_document
 ---
+
+# Project structure
+
+The file structure is as follows:
+
+```{r, echo=FALSE}
+fs::dir_tree(path = here::here(), recurse = 3)
+```
+
+
