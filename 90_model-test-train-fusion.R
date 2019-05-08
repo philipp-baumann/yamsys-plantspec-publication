@@ -8,6 +8,12 @@ spc_elements_tuber_all <- spc_elements_tuber %>%
     select(sample_id, spc_pre, C, N, P, K, Ca, Mg, Fe, Zn, Cu))
 
 
+## Model elements with good cross-validated performance ========================
+
+# Set up multicore processing
+future::plan(future::multicore())
+doFuture::registerDoFuture()
+
 pls_tuber_N_all <- fit_pls(
   spec_chem = spc_elements_tuber_all[!is.na(spc_elements_tuber_all$N), ],
   response = N,
@@ -107,6 +113,29 @@ pls_tuber_Cu_all <- fit_pls(
   pls_ncomp_max = 10
 )
 
+
+## Save test-train final models to disk ========================================
+
+iwalk(
+  .x = list(
+    "N" = pls_tuber_N_all$model,
+    "C" = pls_tuber_C_all$model,
+    "P" = pls_tuber_P_all$model,
+    "K" = pls_tuber_K_all$model,
+    "Ca" = pls_tuber_Ca_all$model,
+    "Mg" = pls_tuber_Mg_all$model,
+    "Fe" = pls_tuber_Fe_all$model,
+    "Zn" = pls_tuber_Zn_all$model,
+    "Cu" = pls_tuber_Cu_all$model),
+  .f = ~ write_rds(
+    x = .x,
+    path = here("models", "test-train", "tuber",
+      paste0("pls_tuber_all_", .y, ".Rds"))
+  )
+)
+
+
+## Plot model assessment for all elements ======================================
 
 pdf(file = "out/figs/model-eval-yam-tuber-all.pdf", width = 10, height = 15)
 cowplot::plot_grid(pls_tuber_C_all$p_model, pls_tuber_N_all$p_model,
