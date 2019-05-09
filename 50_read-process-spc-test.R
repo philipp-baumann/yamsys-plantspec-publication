@@ -10,14 +10,10 @@
 
 # Allows to tune the models using parallel processing (e.g. use all available
 # cores of a CPU); caret package automatically detects the registered backend
-library("doParallel")
 # Make a cluster with all possible threads (more than physical cores)
-cl <- makeCluster(detectCores())
-# Register backend
-registerDoParallel(cl)
-# Return number of parallel workers
-getDoParWorkers() # 8 threads on MacBook Pro (Retina, 15-inch, Mid 2015);
-# Quadcore processor
+doFuture::registerDoFuture()
+plan(multiprocess)
+
 
 ################################################################################
 ## Part 1: Read and pre-process spectra, Read chemical data, and join
