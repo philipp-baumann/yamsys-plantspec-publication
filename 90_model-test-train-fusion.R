@@ -1,3 +1,8 @@
+################################################################################
+## Project: Mid-infrared spectroscopy to diagnose Yam (Diascorea sp.)
+##   mineral nutrients
+################################################################################
+
 spc_elements_tuber_test <- spc_tuber_test %>%
   inner_join(x = ., y = elements_yam_tuber_test)
 
