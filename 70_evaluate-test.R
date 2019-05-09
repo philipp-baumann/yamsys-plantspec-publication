@@ -46,6 +46,24 @@ pred_tuber_test <- predict_from_spc(
 predobs_tuber_test <- inner_join(x = pred_tuber_test,
   y = elements_yam_tuber_test)
 
+## Assess performance of the training on the test set ==========================
+
+assessment_tuber_test <- assess_multimodels(
+  data = predobs_tuber_test,
+  C = vars(o = C, p = pls_tuber_C),
+  N = vars(o = N, p = pls_tuber_N),
+  S = vars(o = N, p = pls_tuber_S),
+  P = vars(o = P, p = pls_tuber_P),
+  K = vars(o = K, p = pls_tuber_K),
+  Ca = vars(o = Ca, p = pls_tuber_Ca),
+  Mg = vars(o = Mg, p = pls_tuber_Mg),
+  Fe = vars(o = Fe, p = pls_tuber_Fe),
+  Zn = vars(o = Zn, p = pls_tuber_Zn),
+  Cu = vars(o = Cu, p = pls_tuber_Cu)
+) %>%
+  select(model, n, min, max, mean, median, sdev, cv,
+    rmse, me, sde, r2, rpd)
+
 
 ################################################################################
 
