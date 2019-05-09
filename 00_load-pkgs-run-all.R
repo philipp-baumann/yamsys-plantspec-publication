@@ -3,7 +3,7 @@
 ################################################################################
 
 ## Install and attach packages
-pkgs <- c("here", "tidyverse", "simplerspec", "future", "doFuture", "A3")
+pkgs <- c("drake", "here", "tidyverse", "simplerspec", "future", "doFuture")
 
 new_pkgs <- pkgs[!(pkgs %in% installed.packages()[, "Package"])]
 
@@ -17,3 +17,5 @@ if (length(new_pkgs)) {
 
 # Load packges
 purrr::iwalk(pkgs, library, character.only = TRUE)
+
+# 
