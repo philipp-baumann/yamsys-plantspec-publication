@@ -8,19 +8,7 @@
 ##   determination
 ################################################################################
 
-## Install all necessary R packages
-## install.packages("devtools", type = "source")
-## devtools::install_github("philipp-baumann/simplerspec")
-
-## Load packages
-pkgs <- c("tidyverse", "simplerspec")
-lapply(pkgs, library, character.only = TRUE)
-
-
 ## Load all plant element data =================================================
 
 elements_yam_leaf <- read_csv("data/training/elements/leaf_elements.csv")
 elements_yam_tuber  <- read_csv("data/training/elements/tuber_elements.csv")
-
-
-
