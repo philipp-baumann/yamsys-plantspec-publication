@@ -17,5 +17,3 @@ if (length(new_pkgs)) {
 
 # Load packges
 purrr::iwalk(pkgs, library, character.only = TRUE)
-
-# 
